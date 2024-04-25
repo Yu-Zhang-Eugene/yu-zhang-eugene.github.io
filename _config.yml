@@ -21,7 +21,7 @@ repository               : "Yu-Zhang-Eugene/yu-zhang-eugene.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yu.jpg"
+  avatar           : "yu.png"
   name             : "Yu(Eugene) Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
