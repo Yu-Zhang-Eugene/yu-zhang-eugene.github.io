@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently (Apr. 2024) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
+Yu(Eugene) Zhang currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
 
 Research Interests
 ======
