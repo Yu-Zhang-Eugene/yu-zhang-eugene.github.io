@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "**Yu(Eugene)** Zhang"
+title: "Short Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently (Apr. 2024) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by Dr. Yuanxiong Guo and Dr. Yanmin Gong. My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
+I am currently (Apr. 2024) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
+
+Research Interests
+======
+My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
 
 
 [![Alt text for broken image link](images\profile.png)](https://www.google.com)
