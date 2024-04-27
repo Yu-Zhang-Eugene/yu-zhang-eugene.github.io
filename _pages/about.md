@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently (Apr. 2024) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by Dr. Yuanxiong Guo and Dr. Yanmin Gong. My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks. 
+I am currently (Apr. 2024) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by Dr. Yuanxiong Guo and Dr. Yanmin Gong. My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
+
+
+[![Alt text for broken image link](images\profile.png)](https://www.google.com)
 
 A data-driven personal website
 ======
