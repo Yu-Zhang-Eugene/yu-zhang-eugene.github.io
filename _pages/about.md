@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px;">
+
+
 He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
-
-
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- First button linking to Stack Overflow -->
@@ -25,6 +26,8 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
       CV (Updated in Apr.2024)
     </button>
   </form>
+</div>
+
 </div>
 
 
