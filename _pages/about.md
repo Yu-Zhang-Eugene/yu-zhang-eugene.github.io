@@ -9,11 +9,31 @@ redirect_from:
 
 He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
 
+
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <!-- First button linking to Stack Overflow -->
+  <form action="https://stackoverflow.com/" method="get" target="_blank">
+    <button type="submit" style="width: 150px; height: 50px; font-size: 16px; color: white; background-color: blue; border: none; border-radius: 5px; margin-right: 10px;">
+      Stack Overflow
+    </button>
+  </form>
+  
+  <!-- Second button linking to GitHub -->
+  <form action="https://github.com/" method="get" target="_blank">
+    <button type="submit" style="width: 150px; height: 50px; font-size: 16px; color: white; background-color: green; border: none; border-radius: 5px;">
+      GitHub
+    </button>
+  </form>
+</div>
+
+
 <form action="https://stackoverflow.com/" method="get" target="_blank">
   <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: white; background-color: blue; border: none; border-radius: 10px;font-family: Arial, sans-serif;">
     Google Scholar
   </button>
-</form>                                             <form action="https://yu-zhang-eugene.github.io/files/paper1.pdf" method="get" target="_blank">
+</form>                                             
+<form action="https://yu-zhang-eugene.github.io/files/paper1.pdf" method="get" target="_blank">
   <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: white; background-color: blue; border: none; border-radius: 10px;font-family: Arial, sans-serif;">
     CV (Updated in Apr.2024)
   </button>
