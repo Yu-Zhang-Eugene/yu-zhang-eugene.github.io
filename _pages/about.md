@@ -1,17 +1,24 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Yu(Eugene) Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Yu(Eugene) Zhang currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
+He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
 
 Research Interests
 ======
 My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
+
+<a href="https://www.google.com" style="text-decoration: none;">
+  <div style="background-color: #007BFF; padding: 10px; border-radius: 5px; display: inline-block;">
+    <img src="https://https://yu-zhang-eugene.github.io/images/profile.png" alt="Button Image" style="height: auto; max-width: 100%; vertical-align: middle;">
+    <span style="color: white; padding-left: 10px; vertical-align: middle;">Click me</span>
+  </div>
+</a>
 
 
 [![Alt text for broken image link](images\profile.png)](https://www.google.com)
