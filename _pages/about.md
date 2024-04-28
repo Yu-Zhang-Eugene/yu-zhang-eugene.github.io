@@ -14,14 +14,14 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- First button linking to Stack Overflow -->
   <form action="https://scholar.google.com/citations?user=p6z9Id4AAAAJ&hl=en&authuser=1" method="get" target="_blank">
-    <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: white; background-color: white; border: none; border-radius: 10px; font-family: Arial, sans-serif;">
+    <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: black; background-color: white; border: 1px; border-radius: 10px; font-family: Arial, sans-serif;">
       Google Scholar
     </button>
   </form>
   
   <!-- Second button linking to GitHub -->
   <form action="https://yu-zhang-eugene.github.io/files/paper1.pdf" method="get" target="_blank">
-    <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: white; background-color: white; border: none; border-radius: 10px; font-family: Arial, sans-serif;">
+    <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: black; background-color: white; border: 1px; border-radius: 10px; font-family: Arial, sans-serif;">
       CV (Updated in Apr.2024)
     </button>
   </form>
