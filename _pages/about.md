@@ -13,12 +13,7 @@ Research Interests
 ======
 My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
 
-<a href="https://www.google.com" style="text-decoration: none;">
-  <div style="background-color: #007BFF; padding: 10px; border-radius: 5px; display: inline-block;">
-    <img src="https://https://yu-zhang-eugene.github.io/images/profile.png" alt="Button Image" style="height: auto; max-width: 100%; vertical-align: middle;">
-    <span style="color: white; padding-left: 10px; vertical-align: middle;">Click me</span>
-  </div>
-</a>
+ <form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
 
 
 [![Alt text for broken image link](images\profile.png)](https://www.google.com)
