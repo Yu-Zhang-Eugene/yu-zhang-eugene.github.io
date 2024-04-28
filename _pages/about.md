@@ -13,10 +13,7 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
   <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: white; background-color: blue; border: none; border-radius: 10px;font-family: Arial, sans-serif;">
     Google Scholar
   </button>
-</form>
-
-
-<form action="https://yu-zhang-eugene.github.io/files/paper1.pdf" method="get" target="_blank">
+</form>                                             <form action="https://yu-zhang-eugene.github.io/files/paper1.pdf" method="get" target="_blank">
   <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: white; background-color: blue; border: none; border-radius: 10px;font-family: Arial, sans-serif;">
     CV (Updated in Apr.2024)
   </button>
