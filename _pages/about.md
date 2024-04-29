@@ -11,10 +11,10 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- First button linking to Stack Overflow -->
-<a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn btn--large">Google Scholar</a>
-  
+<a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn btn--x-large">Google Scholar</a>
+ &nbsp; 
   <!-- Second button linking to GitHub -->
-<a href="https://yu-zhang-eugene.github.io/files/paper1.pdf" class="btn btn--large">CV (Updated in Apr.2024)</a>
+<a href="https://yu-zhang-eugene.github.io/files/paper1.pdf" class="btn btn--x-large">CV (Updated in Apr.2024)</a>
 </div>
 
 <p>&nbsp;</p>
