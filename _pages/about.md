@@ -29,9 +29,10 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 </div>
 
 
-<div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px;">
+
 Research Interests
 ======
+<div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px;">
 My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
 </div>
 
