@@ -12,6 +12,16 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 
 
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <!-- First button linking to Stack Overflow -->
+<a href="https://www.google.com" class="btn">Visit Website</a>
+  
+  <!-- Second button linking to GitHub -->
+<a href="https://www.google.com" class="btn">Visit Website</a>
+</div>
+
+
+
 
 
 <a href="https://www.google.com" class="btn">Visit Website</a>
