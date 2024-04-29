@@ -31,7 +31,9 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 Research Interests
 ======
 
-My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.                          
+My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
+
+<p>&nbsp;</p>
 
 
 Recent News
