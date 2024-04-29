@@ -39,4 +39,6 @@ My current research focuses on Large Language Model (LLM), Quantum Computing (QC
 Recent News
 ======
 
-![news](/images/newspaper.png){:height="30px" width="30px"}[2024-03] One paper was accepted by [IEEE TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
+![news](/images/newspaper.png){:height="25px" width="25px"}[2024-03] One paper was accepted by [IEEE TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
+
+![news](/images/newspaper.png){:height="25px" width="25px"}[2024-03] One paper was accepted by [IEEE TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
