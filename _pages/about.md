@@ -11,29 +11,10 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- First button linking to Stack Overflow -->
-<a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn--x-large--light-outline">Google Scholar</a>
+<a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn btn--x-large btn--light-outline">Google Scholar</a>
   
   <!-- Second button linking to GitHub -->
-<a href="https://yu-zhang-eugene.github.io/files/paper1.pdf" class="btn--x-large--light-outline">CV (Updated in Apr.2024)</a>
-</div>
-
-
-
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <!-- First button linking to Stack Overflow -->
-  <form action="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" method="get" target="_blank">
-    <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: black; background-color: white; border: 2px solid black; border-radius: 10px; font-family: Arial, sans-serif;">
-      Google Scholar
-    </button>
-  </form>
-  
-  <!-- Second button linking to GitHub -->
-  <form action="https://yu-zhang-eugene.github.io/files/paper1.pdf" method="get" target="_blank">
-    <button type="submit" style="width: 400px; height: 50px; font-size: 20px; color: black; background-color: white; border: 2px solid black; border-radius: 10px; font-family: Arial, sans-serif;">
-      CV (Updated in Apr.2024)
-    </button>
-  </form>
+<a href="https://yu-zhang-eugene.github.io/files/paper1.pdf" class="btn btn--x-large btn--light-outline">CV (Updated in Apr.2024)</a>
 </div>
 
 <p>&nbsp;</p>
