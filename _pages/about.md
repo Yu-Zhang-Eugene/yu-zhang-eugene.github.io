@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-
 He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -29,15 +26,17 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 </div>
 
 
-
+<div></div>
+<div></div>
 Research Interests
 ======
-<div style="background-color: #f8f9fa; padding: 10px; border-radius: 5px;">
+
 My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
-</div>
 
 
 
+<div></div>
+<div></div>
 Recent News
 ======
 
