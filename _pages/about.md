@@ -11,7 +11,7 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- First button linking to Stack Overflow -->
-  <form action="https://scholar.google.com/citations?user=p6z9Id4AAAAJ&hl=en&authuser=1" method="get" target="_blank">
+  <form action="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" method="get" target="_blank">
     <button type="submit" style="width: 200px; height: 50px; font-size: 20px; color: black; background-color: white; border: 2px solid black; border-radius: 10px; font-family: Arial, sans-serif;">
       Google Scholar
     </button>
@@ -39,4 +39,4 @@ My current research focuses on Large Language Model (LLM), Quantum Computing (QC
 Recent News
 ======
 
-<i class="fa fa-newspaper-o" aria-hidden="true"></i> [2024-01] One paper accepted by IEEE TVT.
+![news](/images/newspaper.png){:height="39px" width="39px"}[2024-03] One paper was accepted by [IEEE TVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25).
