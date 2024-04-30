@@ -12,8 +12,8 @@ Selected Papers in Refereed Journals:
 ======
 
 - Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing
-Y. Zhang, Y. Gong, and Y. Guo
-IEEE Transactions on Vehicular Technology (TVT), 2024.
+  <u>**Y. Zhang**</u>, Y. Gong, and Y. Guo
+  IEEE Transactions on Vehicular Technology (TVT), 2024.
 
 
 
