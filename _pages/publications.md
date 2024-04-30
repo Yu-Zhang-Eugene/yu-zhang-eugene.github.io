@@ -33,6 +33,6 @@ Preprints:
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
   arXiv preprint arXiv:2312.15808, 2024.
 
-  - <span style="color: black;"> Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks </span>  
+- <span style="color: black;"> Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks </span>  
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
   arXiv preprint arXiv:2312.14448, 2024.
