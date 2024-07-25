@@ -30,7 +30,7 @@ My current research focuses on Large Language Model (LLM), Quantum Computing (QC
 
 Recent News
 ======
-![news](/images/newspaper.png){:height="28px" width="28px"}[2024-07] Our paper "Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks" was accepted by [IEEE Transactions on Network Science and Engineering (TNSE)], to appear.
+![news](/images/newspaper.png){:height="28px" width="28px"}[2024-07] Our paper "Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks" was accepted by [IEEE Transactions on Network Science and Engineering (TNSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902).
 
 ![news](/images/newspaper.png){:height="28px" width="28px"}[2024-06] Our paper "Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery" was accepted by [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/).
 
