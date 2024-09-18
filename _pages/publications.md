@@ -10,6 +10,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAA
 
 Selected Papers in Refereed Journals:
 ------
+- <span style="color: black;"> Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks </span>  
+  __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
+  IEEE Transactions on Mobile Computing (TMC), 2024.
 
 - <span style="color: black;"> Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
