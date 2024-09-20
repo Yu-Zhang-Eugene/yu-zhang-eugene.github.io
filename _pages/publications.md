@@ -35,6 +35,9 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 
 Preprints:
 ------
+- <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
+  __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
+arXiv preprint, 2024.
 
 - <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
