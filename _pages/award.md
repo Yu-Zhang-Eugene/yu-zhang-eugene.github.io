@@ -6,14 +6,9 @@ author_profile: true
 ---
 
 
-Teaching Experiences:
-------
-- IS3303, Operating Systems Security, University of Texas at San Antonio, 2020-2024.  
-- IS4483, Digital Forensic Analysis I, University of Texas at San Antonio, 2020-2024.  
-- IS4523, Digital Forensic Analysis II, University of Texas at San Antonio, 2020-2024.  
-
-
-
-Industry Experiences:
-------
-- Data Analyst, Real Estate IQ, Dallas, Texas, USA, 2017-2019.  
+- 2024 Graduate School Professional Development Award, UTSA, USA	
+- 2020 COVID-19 Transdisciplinary Team Grand Challenge Participation Award, UTSA, USA 
+- 2020 IEEE S&P Student Registration Award, UTSA, USA	
+- 2017 MIS Data Visualization Competition Finalist, UT Dallas, USA  
+- 2017 INFORMS Data Analytics Competition Finalist, UT Dallas, USA 	
+ 
