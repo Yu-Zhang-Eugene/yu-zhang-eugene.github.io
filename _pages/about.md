@@ -23,8 +23,9 @@ He currently (Apr. 2024) is a 5th-year Ph.D. candidate in the Department of Elec
 
 Research Interests
 ======
-_“Research is seeing what everybody else has seen and thinking what nobody else has thought.”   -- Albert Szent-Gyorgyi_
-<br><br>
+_“Research is seeing what everybody else has seen and thinking what nobody else has thought.”_
+                                                                     _-- Albert Szent-Gyorgyi_
+
 My current research focuses on Large Language Model (LLM), Quantum Computing (QC), Federated Learning (FL), optimization and their applications to the mobile devices and integrated satellite-aerial-terrestrial networks.
 
 <p>&nbsp;</p>
