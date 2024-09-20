@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching & Working"
-permalink: /teaching/
+title: "Working"
+permalink: /working/
 author_profile: true
 ---
 
@@ -14,6 +14,6 @@ Teaching Experiences:
 
 
 
-Work Experiences:
+Industry Experiences:
 ------
 - Data Analyst, Real Estate IQ, Dallas, Texas, USA, 2017-2019.  
