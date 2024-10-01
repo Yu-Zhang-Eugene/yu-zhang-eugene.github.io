@@ -42,3 +42,7 @@ arXiv preprint 	arXiv:2409.13517, 2024.
 - <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
   arXiv preprint arXiv:2312.15808, 2024.
+
+  - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
+  Z. Gao, __Y. Zhang__, Y. Gong, and Y. Guo  
+  arXiv preprint arXiv:2409.19509, 2024.
