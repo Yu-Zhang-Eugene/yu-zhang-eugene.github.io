@@ -43,6 +43,6 @@ arXiv preprint 	arXiv:2409.13517, 2024.
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
   arXiv preprint arXiv:2312.15808, 2024.
 
-  - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
+- <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
   Z. Gao, __Y. Zhang__, Y. Gong, and Y. Guo  
   arXiv preprint arXiv:2409.19509, 2024.
