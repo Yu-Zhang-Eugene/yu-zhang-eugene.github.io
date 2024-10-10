@@ -7,9 +7,11 @@ author_profile: true
 
 Journal Reviewer:
 ------
-- IEEE Transactions on Vehicular Technology (TVT), 2020.  
+- IEEE Transactions on Communications (TCOM), 2024.
+- IEEE Transactions on Cognitive Communications and Networking (TCCN), 2024. 
 - IEEE Transactions on Green Communications and Networking (TGCN), 2024.  
 - ACM Computing Surveys, 2024.
+- Energy Systems, 2024.
 - IEEE Wireless Communications Magazine, 2023.
 - IEEE Transactions on Vehicular Technology (TVT), 2020.  
 
