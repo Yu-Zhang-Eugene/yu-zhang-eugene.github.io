@@ -35,6 +35,10 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 
 Preprints:
 ------
+- <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
+  Z. Gao, Z. Zhang, __Y. Zhang__, T. Wang, Y. Gong, and Y. Guo  
+  arXiv preprint arXiv:2410.10833, 2024.
+  
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
 arXiv preprint 	arXiv:2409.13517, 2024.
