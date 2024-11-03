@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Reviewer:
 ------
+- IEEE Transactions on Mobile Computing (TMC), 2024.
 - IEEE Transactions on Communications (TCOM), 2024.
 - IEEE Transactions on Cognitive Communications and Networking (TCCN), 2024. 
 - IEEE Transactions on Green Communications and Networking (TGCN), 2024.  
