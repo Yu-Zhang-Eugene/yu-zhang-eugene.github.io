@@ -51,6 +51,6 @@ arXiv preprint 	arXiv:2409.13517, 2024.
   Z. Gao, __Y. Zhang__, Y. Gong, and Y. Guo  
   arXiv preprint arXiv:2409.19509, 2024.
 
-- <span style="color: black;"> FedPT: Federated Proxy-Tuning of Large Language Models on Resource-Constrained Edge Devices </span>  
-  Z. Gao, __Y. Zhang__,  Z. Zhang, Y. Gong, and Y. Guo  
+- <span style="color: black;"> FedPT: Efficient Federated Proxy-Tuning of Large Language Models </span>  
+  Z. Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
   arXiv preprint arXiv:2409.19509, 2024.
