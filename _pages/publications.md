@@ -10,6 +10,10 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAA
 
 Selected Papers in Refereed Journals:
 ------
+- <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
+  __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
+  IEEE Transactions on Mobile Computing (TMC), 2024.
+  
 - <span style="color: black;"> Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
   IEEE Transactions on Mobile Computing (TMC), 2024.
@@ -42,10 +46,6 @@ Preprints:
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
 arXiv preprint 	arXiv:2409.13517, 2024.
-
-- <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
-  __Y. Zhang__, Y. Gong, L Fan, Y Wang, Z Han, and Y. Guo  
-  arXiv preprint arXiv:2312.15808, 2024.
 
 - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
   Z. Gao, __Y. Zhang__, Y. Gong, and Y. Guo  
