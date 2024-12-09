@@ -33,6 +33,8 @@ My current research focuses on Large Language Model (LLM), Quantum Computing and
 
 Recent News
 ======
+![news](/images/newspaper.png){:height="28px" width="28px"}[2024-12] Our paper "Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks" was accepted by [IEEE Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
+
 ![news](/images/newspaper.png){:height="28px" width="28px"}[2024-07] Our paper "Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks" was accepted by [IEEE Transactions on Mobile Computing (TMC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).
 
 ![news](/images/newspaper.png){:height="28px" width="28px"}[2024-07] Our paper "Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks" was accepted by [IEEE Transactions on Network Science and Engineering (TNSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902).
