@@ -7,23 +7,23 @@ author_profile: true
 
 Journal Reviewer:
 ------
-- IEEE Transactions on Mobile Computing (TMC), 2024.
-- IEEE Transactions on Communications (TCOM), 2024.
-- IEEE Transactions on Cognitive Communications and Networking (TCCN), 2024. 
-- IEEE Transactions on Green Communications and Networking (TGCN), 2024.  
-- ACM Computing Surveys, 2024.
-- Energy Systems, 2024.
-- IEEE Wireless Communications Magazine, 2023.
-- IEEE Transactions on Vehicular Technology (TVT), 2020.  
+- IEEE Transactions on Mobile Computing (TMC).
+- IEEE Transactions on Communications (TCOM).
+- IEEE Transactions on Cognitive Communications and Networking (TCCN). 
+- IEEE Transactions on Green Communications and Networking (TGCN).  
+- ACM Computing Surveys.
+- Energy Systems.
+- IEEE Wireless Communications Magazine.
+- IEEE Transactions on Vehicular Technology (TVT).  
 
 
 
 Conference Reviewer:
 ------
-- IEEE Wireless Communications and Networking Conference (WCNC), 2024
-- IEEE International Conference on Pervasive Computing and Communications (PerCom), 2024. 
-- IEEE Global Communications Conference (Globcom), 2020, 2022.
-- IEEE Conference on Communications and Network Security (CNS), 2021.
+- IEEE Wireless Communications and Networking Conference (WCNC).
+- IEEE International Conference on Pervasive Computing and Communications (PerCom). 
+- IEEE Global Communications Conference (Globcom).
+- IEEE Conference on Communications and Network Security (CNS).
 
 
 Outreach
