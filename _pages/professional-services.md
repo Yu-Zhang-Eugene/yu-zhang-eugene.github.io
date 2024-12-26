@@ -7,23 +7,23 @@ author_profile: true
 
 Journal Reviewer:
 ------
-- IEEE Transactions on Mobile Computing (TMC).
-- IEEE Transactions on Communications (TCOM).
-- IEEE Transactions on Cognitive Communications and Networking (TCCN). 
-- IEEE Transactions on Green Communications and Networking (TGCN).  
-- ACM Computing Surveys.
-- Energy Systems.
-- IEEE Wireless Communications Magazine.
-- IEEE Transactions on Vehicular Technology (TVT).  
-
+- IEEE Wireless Communications Magazine
+- IEEE Transactions on Communications (TCOM)
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Vehicular Technology (TVT)
+- IEEE Transactions on Green Communications and Networking (TGCN)
+- IEEE Transactions on Cognitive Communications and Networking (TCCN)
+- Energy Systems
+- ACM Computing Surveys
+- Mobile Networks and Applications 
 
 
 Conference Reviewer:
 ------
-- IEEE Wireless Communications and Networking Conference (WCNC).
-- IEEE International Conference on Pervasive Computing and Communications (PerCom). 
-- IEEE Global Communications Conference (Globcom).
-- IEEE Conference on Communications and Network Security (CNS).
+- IEEE Global Communications Conference (Globcom)
+- IEEE Conference on Communications and Network Security (CNS)
+- IEEE Wireless Communications and Networking Conference (WCNC)
+- IEEE International Conference on Pervasive Computing and Communications (PerCom)
 
 
 Outreach
