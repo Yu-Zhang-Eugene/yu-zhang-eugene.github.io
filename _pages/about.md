@@ -14,7 +14,7 @@ He currently (Jan. 2025) is a 5th-year Ph.D. candidate in the Department of Elec
 <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn btn--x-large" target="_blank">Google Scholar</a>
  &nbsp; 
   <!-- Second button linking to GitHub -->
-<a href="https://yu-zhang-eugene.github.io/files/cv.pdf" class="btn btn--x-large" target="_blank">CV (Updated in Jan.2024)</a>
+<a href="https://yu-zhang-eugene.github.io/files/cv.pdf" class="btn btn--x-large" target="_blank">CV (Updated in Jan.2025)</a>
 </div>
 
 
