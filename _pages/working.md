@@ -14,7 +14,7 @@ Teaching Experiences:
 - IS4523, Digital Forensic Analysis II, University of Texas at San Antonio, 2020-2024  
 
 **Mentor**
-- Shamima Akter, "CommunicationEfficient Federated Learning for LEO Satellites", master, University of Texas at San Antonio, 2024.
+- Shamima Akter, "CommunicationEfficient Federated Learning for LEO Satellites", M.S., University of Texas at San Antonio, 2024
 
 Industry Experiences:
 ------
