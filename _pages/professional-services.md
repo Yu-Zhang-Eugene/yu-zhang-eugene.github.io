@@ -5,7 +5,7 @@ permalink: /professional-services/
 author_profile: true
 ---
 
-Journal Reviewer:
+Journal Reviewer (Selected):
 ------
 - IEEE Wireless Communications Magazine
 - IEEE Transactions on Communications (TCOM)
@@ -18,7 +18,7 @@ Journal Reviewer:
 - Mobile Networks and Applications 
 
 
-Conference Reviewer:
+Conference Reviewer (Selected):
 ------
 - IEEE Global Communications Conference (Globcom)
 - IEEE Conference on Communications and Network Security (CNS)
