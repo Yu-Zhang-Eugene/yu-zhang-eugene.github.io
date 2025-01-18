@@ -8,6 +8,7 @@ author_profile: true
 Journal Reviewer (Selected):
 ------
 - IEEE Wireless Communications Magazine
+- IEEE/ACM Transactions on Networking (TON)
 - IEEE Transactions on Communications (TCOM)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Vehicular Technology (TVT)
