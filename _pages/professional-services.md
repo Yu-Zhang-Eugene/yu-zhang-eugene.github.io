@@ -5,6 +5,10 @@ permalink: /professional-services/
 author_profile: true
 ---
 
+TPC Member:
+---
+- IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE) - Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications (GenAI4SCH) Workshop, 2025 
+
 Journal Reviewer (Selected):
 ------
 - IEEE Wireless Communications Magazine
@@ -24,6 +28,7 @@ Conference Reviewer (Selected):
 - IEEE Global Communications Conference (Globcom)
 - IEEE Conference on Communications and Network Security (CNS)
 - IEEE Wireless Communications and Networking Conference (WCNC)
+- IEEE International Conference on Distributed Computing Systems (ICDCS)
 - IEEE International Conference on Pervasive Computing and Communications (PerCom)
 
 
