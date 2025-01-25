@@ -5,9 +5,9 @@ permalink: /professional-services/
 author_profile: true
 ---
 
-TPC Member:
+Technical Program Committee Member:
 ---
-- IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE) - Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications (GenAI4SCH) Workshop, 2025 
+- Workshop on Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications (GenAI4SCH), IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
 
 Journal Reviewer (Selected):
 ------
