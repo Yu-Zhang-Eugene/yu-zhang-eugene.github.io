@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Working"
-permalink: /working/
+title: "Work"
+permalink: /work/
 author_profile: true
 ---
 
