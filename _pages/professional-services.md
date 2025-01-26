@@ -35,7 +35,7 @@ Conference Reviewer (Selected):
 Outreach
 ------
 - Poster presentation at IEEE ICC, Denver, USA, 2024
-- Poster presentation at New In ML workshop of NeurIPS, New Orleans, USA, 2023
+- Poster presentation at NeurIPS in New In ML workshop, New Orleans, USA, 2023
 - Volunteer at MATRIX AI Seminar, San Antonio, USA, 2021
 - Volunteer at Big Idea Competition, Dallas, USA, 2017
 - Volunteer at National Navigation Summer Camp, Wuhan, China, 2012
