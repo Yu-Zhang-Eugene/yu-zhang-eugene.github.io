@@ -20,7 +20,8 @@ Journal Reviewer (Selected):
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - Energy Systems
 - ACM Computing Surveys
-- Mobile Networks and Applications 
+- The Journal of Supercomputing
+- Mobile Networks and Applications
 
 
 Conference Reviewer (Selected):
