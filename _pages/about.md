@@ -36,7 +36,7 @@ Recent News
 <details open>
 <summary><strong>🗓️ 2024 Highlights</strong></summary>
   
-<ul>
+<ul style="list-style: none;">
   <li>
     <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
     <strong>[2024-12]</strong> Our paper <em>"Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"</em> was accepted by 
