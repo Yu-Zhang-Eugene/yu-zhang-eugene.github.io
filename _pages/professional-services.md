@@ -20,7 +20,8 @@ Journal Reviewer (Selected):
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - Energy Systems
 - ACM Computing Surveys
-- The Journal of Supercomputing
+- Journal of Supercomputing
+- Journal of Grid Computing
 - Mobile Networks and Applications
 
 
