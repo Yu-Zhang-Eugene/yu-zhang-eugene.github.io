@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently (Jan. 2025) a 5th-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). I received an M.S. degree in Information Technology and Management at the University of Texas at Dallas and a B.S. degree in Navigation Technology and Logistics Management at Wuhan University of Technology.
+I am currently (Mar. 2025) a final-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). I received an M.S. degree in Information Technology and Management at the University of Texas at Dallas and a B.S. degree in Navigation Technology and Logistics Management at Wuhan University of Technology.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- First button linking to Stack Overflow -->
