@@ -20,6 +20,7 @@ Journal Reviewer (Selected):
 - IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - Energy Systems
+- Cluster Computing
 - ACM Computing Surveys
 - Journal of Supercomputing
 - Journal of Grid Computing
