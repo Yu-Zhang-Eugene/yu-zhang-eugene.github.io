@@ -14,7 +14,7 @@ I am currently (Mar. 2025) a final-year Ph.D. candidate in the Department of Ele
 <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn btn--x-large" target="_blank">Google Scholar</a>
  &nbsp; 
   <!-- Second button linking to GitHub -->
-<a href="https://yu-zhang-eugene.github.io/files/cv.pdf" class="btn btn--x-large" target="_blank">CV (Updated in Mar.2025)</a>
+<a href="https://yu-zhang-eugene.github.io/files/cv.pdf" class="btn btn--x-large" target="_blank">CV (Updated in May 2025)</a>
 </div>
 
 
