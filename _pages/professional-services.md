@@ -17,6 +17,7 @@ Journal Reviewer (Selected):
 - IEEE Transactions on Communications (TCOM)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Vehicular Technology (TVT)
+- IEEE Transactions on Emerging Topics in Computing (TETC)
 - IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - Energy Systems
