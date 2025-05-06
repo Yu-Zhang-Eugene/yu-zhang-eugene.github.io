@@ -18,6 +18,7 @@ Journal Reviewer (Selected):
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Emerging Topics in Computing (TETC)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - Energy Systems
@@ -26,11 +27,12 @@ Journal Reviewer (Selected):
 - Journal of Supercomputing
 - Journal of Grid Computing
 - Mobile Networks and Applications
+- International Journal of Data Science and Analytics
 
 
 Conference Reviewer (Selected):
 ------
-- IEEE Global Communications Conference (Globcom)
+- IEEE Global Communications Conference (Globecom)
 - IEEE Conference on Communications and Network Security (CNS)
 - IEEE Wireless Communications and Networking Conference (WCNC)
 - IEEE International Conference on Distributed Computing Systems (ICDCS)
