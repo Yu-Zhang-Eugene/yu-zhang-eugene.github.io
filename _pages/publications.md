@@ -42,6 +42,9 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 
 Preprints:
 ------
+- <span style="color: black;"> Resource-Constrained and Heterogeneity-Aware Split Federated Fine-Tuning of Large Language Models over Mobile Edge Networks </span>  
+  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
+  
 - <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
   __Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo
 
