@@ -77,8 +77,16 @@ Recent News
 <p>&nbsp;</p>
 
 
-_Welcome to my website! Bienvenue sur mon site web! ようこそ私のウェブサイトへ! Willkommen auf meiner Website! 欢迎来到我的网站!_<br>
-<a href="https://clustrmaps.com/site/1c6c9"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg&cl=ffffff" /></a>
+<p style="text-align: center; font-style: italic; font-size: 1.1em;">
+  Welcome to my website! Bienvenue sur mon site web! ようこそ私のウェブサイトへ! Willkommen auf meiner Website! 欢迎来到我的网站!
+</p>
+
+<div style="text-align: center; margin-top: 1em;">
+  <a href="https://clustrmaps.com/site/1c6c9"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg&cl=ffffff" /></a>
+</div>
+
+
+
 
 
 
