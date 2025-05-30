@@ -78,7 +78,7 @@ Recent News
 
 Visiting Map
 ======
-Welcome to my website! 
+Welcome to my website! Bienvenue sur mon site web! ようこそ私のウェブサイトへ! Willkommen auf meiner Website! 欢迎来到我的网站! 
 
 <a href="https://clustrmaps.com/site/1c6c9"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg&cl=ffffff" />
 
