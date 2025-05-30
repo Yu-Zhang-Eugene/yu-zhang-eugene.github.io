@@ -73,6 +73,7 @@ Recent News
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25" target="_blank">IEEE Transactions on Vehicular Technology (TVT)</a>.
   </li>
 </ul>
+</details>
 
 <p>&nbsp;</p>
 
