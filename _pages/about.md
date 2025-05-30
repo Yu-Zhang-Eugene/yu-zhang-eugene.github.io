@@ -78,7 +78,7 @@ Recent News
 
 Visiting Map
 ======
-
+<p>&nbsp;</p>
 <a href="https://clustrmaps.com/site/1c6c9"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg&cl=ffffff" />
 
 
