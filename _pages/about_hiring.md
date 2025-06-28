@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). I received an M.S. degree in Information Technology and Management at the University of Texas at Dallas and a B.S. degree in Navigation Technology and Logistics Management at Wuhan University of Technology. (Website Last Updated: June/27/2025)
+I am currently (May 2025) a final-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by [Dr. Yuanxiong Guo](https://guoyuanxiong.github.io) and [Dr. Yanmin Gong](https://yanmingong.github.io). I received an M.S. degree in Information Technology and Management at the University of Texas at Dallas and a B.S. degree in Navigation Technology and Logistics Management at Wuhan University of Technology.
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <!-- First button linking to Stack Overflow -->
+<a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="btn btn--x-large" target="_blank">Google Scholar</a>
+ &nbsp; 
+  <!-- Second button linking to GitHub -->
+<a href="https://yu-zhang-eugene.github.io/files/cv.pdf" class="btn btn--x-large" target="_blank">CV (Updated in May 2025)</a>
+</div>
+
+
 
 <p>&nbsp;</p>
 
