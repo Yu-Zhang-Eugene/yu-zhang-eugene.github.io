@@ -27,7 +27,6 @@ Journal Reviewer (Selected):
 - Journal of Supercomputing
 - Journal of Grid Computing
 - Mobile Networks and Applications
-- International Journal of Data Science and Analytics
 
 
 Conference Reviewer (Selected):
