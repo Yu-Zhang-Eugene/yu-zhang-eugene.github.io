@@ -30,8 +30,8 @@ author:
   name             : "Yu(Eugene) Zhang"
   pronouns         : # example: "she/her"  
   bio              : "ECE Ph.D. Candidate"
-  location         : "San Antonio"
-  employer         : # "University of Texas at San Antonio"
+  location         : # "San Antonio"
+  employer         : "University of Texas at San Antonio"
   uri              : # URL
   email            : "zhangyu@yahoo.com" 
 
