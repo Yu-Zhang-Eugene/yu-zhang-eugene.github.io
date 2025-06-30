@@ -194,7 +194,6 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
-  font-size: 0.9em;
 
   @include breakpoint($large) {
     display: block;
@@ -251,7 +250,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-5-5;
     text-decoration: none;
 
     &:hover {
