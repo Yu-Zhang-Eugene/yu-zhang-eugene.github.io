@@ -34,27 +34,27 @@ Recent News
   
   <li>
     <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
-    <strong>[2024-12]</strong> Our paper <em>"Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"</em> was accepted by the IEEE Transactions on Mobile Computing (TMC).
+    <span class="date-tag blue">[2024-12]</span> Our paper <em>"Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"</em> was accepted by the IEEE Transactions on Mobile Computing (TMC).
   </li>
   
   <li>
     <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
-    <strong>[2024-07]</strong> Our paper <em>"Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks"</em> was accepted by the IEEE Transactions on Mobile Computing (TMC).
+    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks"</em> was accepted by the IEEE Transactions on Mobile Computing (TMC).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
-    <strong>[2024-07]</strong> Our paper <em>"Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks"</em> was accepted by the IEEE Transactions on Network Science and Engineering (TNSE).
+    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks"</em> was accepted by the IEEE Transactions on Network Science and Engineering (TNSE).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
-    <strong>[2024-06]</strong> Our paper <em>"Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery"</em> was accepted by the IEEE International Conference on Communications (ICC).
+    <span class="date-tag blue">[2024-06]</span> Our paper <em>"Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery"</em> was accepted by the IEEE International Conference on Communications (ICC).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
-    <strong>[2024-03]</strong> Our paper <em>"Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"</em> was accepted by the IEEE Transactions on Vehicular Technology (TVT).
+    <span class="date-tag blue">[2024-03]</span> Our paper <em>"Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"</em> was accepted by the IEEE Transactions on Vehicular Technology (TVT).
   </li>
 </ul>
 </details>
