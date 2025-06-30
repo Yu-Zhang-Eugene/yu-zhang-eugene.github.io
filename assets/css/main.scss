@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.date-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    margin: 2px 0;
+  }
+  
+  .date-tag.blue {
+    background-color: #2e9fff; /* Blue tag */
+  }
+  
+  .date-tag.green {
+    background-color: #4CAF50; /* Green tag */
+  }
