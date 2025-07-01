@@ -37,7 +37,7 @@ Selected Papers in Refereed Conferences:
 ------
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025
+International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025  
 <a href="https://arxiv.org/abs/2409.13517" style="color: #007b00; text-decoration: underline;" target="_blank">[Arxiv]</a>
 
 - <span style="color: black;"> Semi-Supervised Federated Learning for Assessing Building Damage from Satellite Imagery </span>  
