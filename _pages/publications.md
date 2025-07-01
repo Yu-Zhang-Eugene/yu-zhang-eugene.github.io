@@ -19,11 +19,13 @@ Selected Papers in Refereed Journals:
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
   IEEE Transactions on Mobile Computing (TMC), 2024  
   <a href="https://ieeexplore.ieee.org/document/10691643" style="color: #007b00; text-decoration: none;">[Paper]</a>
+  <a href="https://arxiv.org/abs/2409.13508" style="color: #007b00; text-decoration: none;">[Arxiv]</a>
 
 - <span style="color: black;"> Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
   IEEE Transactions on Network Science and Engineering (TNSE), 2024  
   <a href="https://ieeexplore.ieee.org/document/10614917" style="color: #007b00; text-decoration: none;">[Paper]</a>
+  <a href="https://arxiv.org/abs/2312.14448" style="color: #007b00; text-decoration: none;">[Arxiv]</a>
 
 - <span style="color: black;"> Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing </span>  
   __Y. Zhang__, Y. Gong, and Y. Guo  
@@ -36,7 +38,8 @@ Selected Papers in Refereed Conferences:
 ------
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025 
+International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025
+<a href="https://arxiv.org/abs/2409.13517" style="color: #007b00; text-decoration: none;">[Arxiv]</a>
 
 - <span style="color: black;"> Semi-Supervised Federated Learning for Assessing Building Damage from Satellite Imagery </span>  
   __Y. Zhang__, Y. Gong, and Y. Guo   
