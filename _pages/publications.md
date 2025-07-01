@@ -12,19 +12,23 @@ Selected Papers in Refereed Journals:
 ------
 - <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  IEEE Transactions on Mobile Computing (TMC), 2025
+  IEEE Transactions on Mobile Computing (TMC), 2025  
+  <a href="https://ieeexplore.ieee.org/document/10804104" style="color: #007b00; text-decoration: none;">[Paper]</a>
   
 - <span style="color: black;"> Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  IEEE Transactions on Mobile Computing (TMC), 2024
+  IEEE Transactions on Mobile Computing (TMC), 2024  
+  <a href="https://ieeexplore.ieee.org/document/10691643" style="color: #007b00; text-decoration: none;">[Paper]</a>
 
 - <span style="color: black;"> Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  IEEE Transactions on Network Science and Engineering (TNSE), 2024
+  IEEE Transactions on Network Science and Engineering (TNSE), 2024  
+  <a href="https://ieeexplore.ieee.org/document/10614917" style="color: #007b00; text-decoration: none;">[Paper]</a>
 
 - <span style="color: black;"> Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing </span>  
   __Y. Zhang__, Y. Gong, and Y. Guo  
-  IEEE Transactions on Vehicular Technology (TVT), 2024
+  IEEE Transactions on Vehicular Technology (TVT), 2024   
+  <a href="https://ieeexplore.ieee.org/document/10477460" style="color: #007b00; text-decoration: none;">[Paper]</a>
 
 
 
@@ -36,7 +40,8 @@ International Conference on Computer Communications and Networks (ICCCN), Tokyo,
 
 - <span style="color: black;"> Semi-Supervised Federated Learning for Assessing Building Damage from Satellite Imagery </span>  
   __Y. Zhang__, Y. Gong, and Y. Guo   
-IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2024
+IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2024  
+<a href="https://ieeexplore.ieee.org/document/10622484" style="color: #007b00; text-decoration: none;">[Paper]</a>
 
 
 
