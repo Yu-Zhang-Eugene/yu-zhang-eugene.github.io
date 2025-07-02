@@ -1,0 +1,23 @@
+- name: NeurIPS 2025
+  deadline: 2025-05-15T23:59:00Z
+  category: ML
+  icon: "🤖"
+  website: https://neurips.cc
+
+- name: ICLR 2026
+  deadline: 2025-09-28T23:59:00Z
+  category: ML
+  icon: "🤖"
+  website: https://iclr.cc
+
+- name: ICML 2026
+  deadline: 2025-10-12T23:59:00Z
+  category: ML
+  icon: "🤖"
+  website: https://icml.cc
+
+- name: ACL 2025
+  deadline: 2025-04-01T23:59:00Z
+  category: NLP
+  icon: "🗣️"
+  website: https://aclweb.org

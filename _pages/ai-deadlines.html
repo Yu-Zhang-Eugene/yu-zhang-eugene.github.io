@@ -1,0 +1,56 @@
+---
+layout: page
+title: AI Conference Deadlines
+permalink: /ai-deadlines/
+---
+
+<h2>AI Conference Deadlines</h2>
+
+<div>
+  Timezone:
+  <select id="timezone-select">
+    <option value="local">Local</option>
+    <option value="UTC">UTC</option>
+  </select>
+
+  Category:
+  <select id="category-select">
+    <option value="all">All</option>
+    <option value="ML">ML</option>
+    <option value="NLP">NLP</option>
+  </select>
+
+  <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
+  <button onclick="downloadJSON()">Download JSON</button>
+</div>
+
+<table id="deadline-table">
+  <thead>
+    <tr>
+      <th>Conference</th>
+      <th>Deadline</th>
+      <th>Time</th>
+      <th>Countdown</th>
+      <th>Progress</th>
+      <th>.ics</th>
+      <th>Google Cal</th>
+    </tr>
+  </thead>
+  <tbody id="deadline-body">
+    {% assign sorted = site.data.deadlines | sort: "deadline" %}
+    {% for conf in sorted %}
+      <tr data-deadline="{{ conf.deadline }}" data-category="{{ conf.category }}">
+        <td>{{ conf.icon }} {{ conf.name }}</td>
+        <td>{{ conf.deadline | date: "%Y-%m-%d" }}</td>
+        <td class="time-cell"></td>
+        <td class="countdown-cell"></td>
+        <td class="progress-cell"></td>
+        <td><a class="ics-link">.ics</a></td>
+        <td><a class="gcal-link" target="_blank" rel="noopener noreferrer">GCal</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script src="{{ '/assets/js/deadlines.js' | relative_url }}"></script>
+<link rel="stylesheet" href="{{ '/assets/css/deadlines.css' | relative_url }}">
