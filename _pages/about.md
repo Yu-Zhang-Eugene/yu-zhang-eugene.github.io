@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by <a href="https://guoyuanxiong.github.io" style="color: #007b00; text-decoration: underline;" target="_blank">Dr. Yuanxiong Guo</a> and <a href="https://yanmingong.github.io" style="color: #007b00; text-decoration: underline;" target="_blank">Dr. Yanmin Gong</a>. I received an M.S. degree in Information Technology and Management at the University of Texas at Dallas and a B.S. degree in Navigation Technology and Logistics Management at Wuhan University of Technology. 
+I am currently a final-year Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Texas at San Antonio, advised by <a href="https://guoyuanxiong.github.io" class="custom-link" target="_blank">Dr. Yuanxiong Guo</a> and <a href="https://yanmingong.github.io" class="custom-link" target="_blank">Dr. Yanmin Gong</a>. I received an M.S. degree in Information Technology and Management at the University of Texas at Dallas and a B.S. degree in Navigation Technology and Logistics Management at Wuhan University of Technology. 
 
 <p>&nbsp;</p>
 
@@ -28,7 +28,7 @@ Recent News
   
 <ul style="list-style: none;">
   <li>
-    <img src="/images/newspaper.png" alt="news" height="28px" width="28px">
+    <img src="/images/newspaper.png" alt="news" class="news-icon-img">
     <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by <a href="http://www.icccn.org/" target="_blank" style="color: #007b00; text-decoration: underline;">International Conference on Computer Communications and Networks (ICCCN)</a>.
   </li>
   

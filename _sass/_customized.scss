@@ -1,0 +1,38 @@
+/* ==========================================================================
+  Customized style
+   ========================================================================== */
+
+   .custom-link {
+    color: #007b00;
+    text-decoration: underline;
+  }
+  
+  .custom-link:hover {
+    text-decoration: underline;
+    color: #005a00; // optional: darker green on hover
+  }
+
+
+  
+.date-tag {
+    display: inline-block;
+    padding: 1px 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    margin: 1px 0;
+  }
+  
+  .date-tag.blue {
+    background-color: #2e9fff; /* Blue tag */
+  }
+  
+  .date-tag.green {
+    background-color: #4CAF50; /* Green tag */
+  }
+
+  .news-icon-img {
+    width: 28px;
+    height: 28px;
+  }

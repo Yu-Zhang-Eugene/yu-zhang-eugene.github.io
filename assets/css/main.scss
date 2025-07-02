@@ -40,20 +40,5 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.date-tag {
-    display: inline-block;
-    padding: 1px 5px;
-    font-size: 16px;
-    font-weight: bold;
-    color: white;
-    border-radius: 10px;
-    margin: 1px 0;
-  }
-  
-  .date-tag.blue {
-    background-color: #2e9fff; /* Blue tag */
-  }
-  
-  .date-tag.green {
-    background-color: #4CAF50; /* Green tag */
-  }
+
+@import "customized"
