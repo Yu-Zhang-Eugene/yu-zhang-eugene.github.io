@@ -110,4 +110,4 @@ END:VCALENDAR`.replace(/\n/g, "\r\n"));
     Stickyfill.add(document.querySelectorAll(".sticky"));
   }
 
-});
+  });

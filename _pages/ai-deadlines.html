@@ -4,24 +4,26 @@ title: AI Conference Deadlines
 permalink: /ai-deadlines/
 ---
 
-<h2>AI Conference Deadlines</h2>
+<h2>AI Conference Deadlines （Under Construction）</h2>
 
 <div>
-  Timezone:
+  <!-- Timezone:
   <select id="timezone-select">
     <option value="local">Local</option>
     <option value="UTC">UTC</option>
-  </select>
+  </select> -->
 
   Category:
-  <select id="category-select">
+ <select id="category-select">
     <option value="all">All</option>
-    <option value="ML">ML</option>
-    <option value="NLP">NLP</option>
-  </select>
+    {% assign cats = site.data.deadline | map: "category" | uniq | sort %}
+    {% for cat in cats %}
+      <option value="{{ cat }}">{{ cat }}</option>
+    {% endfor %}
+</select>
 
-  <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
-  <button onclick="downloadJSON()">Download JSON</button>
+  <!-- <button onclick="toggleDarkMode()">Toggle Dark Mode</button> -->
+  <!-- <button onclick="downloadJSON()">Download JSON</button> -->
 </div>
 
 <table id="deadline-table">
@@ -29,11 +31,11 @@ permalink: /ai-deadlines/
     <tr>
       <th>Conference</th>
       <th>Deadline</th>
-      <th>Time</th>
+      <!-- <th>Time</th> -->
       <th>Countdown</th>
-      <th>Progress</th>
+      <!-- <th>Progress</th>
       <th>.ics</th>
-      <th>Google Cal</th>
+      <th>Google Cal</th> -->
     </tr>
   </thead>
   <tbody id="deadline-body">
@@ -42,11 +44,11 @@ permalink: /ai-deadlines/
       <tr data-deadline="{{ conf.deadline }}" data-category="{{ conf.category }}">
         <td>{{ conf.icon }} {{ conf.name }}</td>
         <td>{{ conf.deadline | date: "%Y-%m-%d" }}</td>
-        <td class="time-cell"></td>
+        <!-- <td class="time-cell"></td> -->
         <td class="countdown-cell"></td>
-        <td class="progress-cell"></td>
+        <!-- <td class="progress-cell"></td>
         <td><a class="ics-link">.ics</a></td>
-        <td><a class="gcal-link" target="_blank" rel="noopener noreferrer">GCal</a></td>
+        <td><a class="gcal-link" target="_blank" rel="noopener noreferrer">GCal</a></td> -->
       </tr>
     {% endfor %}
   </tbody>
