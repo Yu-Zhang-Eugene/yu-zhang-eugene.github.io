@@ -14,7 +14,7 @@ permalink: /ai-deadlines/
   </select> -->
 
   Category:
-  {% assign cats = site.data.deadline | map: "category" | uniq | sort %}
+  {% assign cats = site.data.deadlines | map: "category" | uniq | sort %}
 
   <select id="category-select">
     <option value="all">All</option>
