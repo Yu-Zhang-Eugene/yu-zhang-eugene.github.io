@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>jQuery Test</title>
+  <!-- ✅ Include jQuery from CDN -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+  <h1>Test jQuery Dropdown</h1>
+
+  <select id="category-select">
+    <option value="all">All</option>
+    <option value="ML">ML</option>
+    <option value="NLP">NLP</option>
+  </select>
+
+  <ul>
+    <li class="conference" data-category="ML">NeurIPS</li>
+    <li class="conference" data-category="NLP">ACL</li>
+    <li class="conference" data-category="ML">ICML</li>
+  </ul>
+
+  <script>
+    $(document).ready(function () {
+      $('#category-select').on('change', function () {
+        const selected = $(this).val();
+
+        $('.conference').each(function () {
+          const category = $(this).data('category');
+          if (selected === 'all' || category === selected) {
+            $(this).show();
+          } else {
+            $(this).hide();
+          }
+        });
+      });
+    });
+  </script>
+
+</body>
+</html>

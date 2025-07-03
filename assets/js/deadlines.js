@@ -6,10 +6,10 @@ $(document).ready(function () {
     $('#category-select').on('change', function () {
       const selected = $(this).val();
 
-      $('.conference').each(function () {
-        const category = $(this).data('category');
+      $('#deadline-body tr').each(function () {
+        const rowCategory = $(this).data('category');
 
-        if (selected === 'all' || category === selected) {
+        if (selected === 'all' || rowCategory === selected) {
           $(this).show();
         } else {
           $(this).hide();
