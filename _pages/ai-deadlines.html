@@ -14,13 +14,14 @@ permalink: /ai-deadlines/
   </select> -->
 
   Category:
- <select id="category-select">
+  {% assign cats = site.data.deadline | map: "category" | uniq | sort %}
+
+  <select id="category-select">
     <option value="all">All</option>
-    {% assign cats = site.data.deadline | map: "category" | uniq | sort %}
     {% for cat in cats %}
       <option value="{{ cat }}">{{ cat }}</option>
     {% endfor %}
-</select>
+  </select>
 
   <!-- <button onclick="toggleDarkMode()">Toggle Dark Mode</button> -->
   <!-- <button onclick="downloadJSON()">Download JSON</button> -->
