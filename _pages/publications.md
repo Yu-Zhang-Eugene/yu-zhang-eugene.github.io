@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="custom-link" target="_blank">Google Scholar</a> for a comprehensive list of publications.
 
-Selected Papers in Refereed Journals:
+Papers in Refereed Journals:
 ------
 - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
   Z.Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
@@ -37,7 +37,7 @@ Selected Papers in Refereed Journals:
 
 
 
-Selected Papers in Refereed Conferences:
+Papers in Refereed Conferences:
 ------
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
