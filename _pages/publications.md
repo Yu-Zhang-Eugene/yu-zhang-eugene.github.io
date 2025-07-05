@@ -9,6 +9,10 @@ See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class
 
 Selected Papers in Refereed Journals:
 ------
+- <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
+  Z.Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
+  IEEE Internet of Things Journal (IoT-J), 2025  
+
 - <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
   IEEE Transactions on Mobile Computing (TMC), 2025  

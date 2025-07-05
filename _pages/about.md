@@ -29,6 +29,11 @@ Recent News
 <ul style="list-style: none;">
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
+    <span class="date-tag blue">[2025-07]</span> Our paper <em>"Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank" class="custom-link">IEEE Internet of Things Journal (IoT-J)</a>.
+  </li>
+
+  <li>
+    <img src="/images/newspaper.png" alt="news" class="news-icon-img">
     <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by <a href="http://www.icccn.org/" target="_blank" class="custom-link">International Conference on Computer Communications and Networks (ICCCN)</a>.
   </li>
   

@@ -11,7 +11,7 @@ Technical Program Committee Member:
 
 Journal Reviewer (Selected):
 ------
-- IEEE Internet of Things Journal (IoTJ)
+- IEEE Internet of Things Journal (IoT-J)
 - IEEE Wireless Communications Magazine
 - IEEE/ACM Transactions on Networking (TON)
 - IEEE Transactions on Communications (TCOM)
