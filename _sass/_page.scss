@@ -26,6 +26,7 @@
   .page__inner-wrap {
     @include full();
 
+    width: 125%;
     .page__content,
     .page__meta,
     .page__share {
