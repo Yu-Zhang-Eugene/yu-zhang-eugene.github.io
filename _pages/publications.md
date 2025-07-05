@@ -59,8 +59,5 @@ Preprints:
 - <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
   __Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo
 
-- <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
-  Z. Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
-
 - <span style="color: black;"> FedSFT: Resource-Constrained Federated Black-Box Adaptation of Large Language Models </span>  
   Z. Zhang, __Y. Zhang__, Z. Gao, Y. Gong, and Y. Guo  
