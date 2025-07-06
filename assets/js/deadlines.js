@@ -33,7 +33,6 @@ function sortByDeadline(data) {
   return data.slice().sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
 }
 
-cont = site.data.deadlines
 
 $(document).ready(function () {
     renderTable(sortByDeadline(conferences));
