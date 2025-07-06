@@ -32,26 +32,11 @@ permalink: /ai-deadlines/
     <tr>
       <th>Conference</th>
       <th>Deadline</th>
-      <!-- <th>Time</th> -->
       <th>Countdown</th>
-      <!-- <th>Progress</th>
-      <th>.ics</th>
-      <th>Google Cal</th> -->
     </tr>
   </thead>
   <tbody id="deadline-body">
-    {% assign sorted = site.data.deadlines | sort: "deadline" %}
-    {% for conf in sorted %}
-      <tr data-deadline="{{ conf.deadline }}" data-category="{{ conf.category }}">
-        <td>{{ conf.icon }} {{ conf.name }}</td>
-        <td>{{ conf.deadline | date: "%Y-%m-%d" }}</td>
-        <!-- <td class="time-cell"></td> -->
-        <td class="countdown-cell"></td>
-        <!-- <td class="progress-cell"></td>
-        <td><a class="ics-link">.ics</a></td>
-        <td><a class="gcal-link" target="_blank" rel="noopener noreferrer">GCal</a></td> -->
-      </tr>
-    {% endfor %}
+    <!-- Will be filled by JavaScript -->
   </tbody>
 </table>
 
