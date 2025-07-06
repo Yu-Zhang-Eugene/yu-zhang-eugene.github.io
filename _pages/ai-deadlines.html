@@ -4,30 +4,15 @@ title: AI Conference Deadlines
 permalink: /ai-deadlines/
 ---
 
-<h2>AI Conference Deadlines （Under Construction）</h2>
+<h1>Conference Deadlines</h1>
 
-<div>
-  <!-- Timezone:
-  <select id="timezone-select">
-    <option value="local">Local</option>
-    <option value="UTC">UTC</option>
-  </select> -->
+<select id="category-select">
+  <option value="all">All</option>
+  <option value="ML">ML</option>
+  <option value="NLP">NLP</option>
+</select>
 
-  Category:
-  {% assign cats = site.data.deadlines | map: "category" | uniq | sort %}
-
-  <select id="category-select">
-    <option value="all">All</option>
-    {% for cat in cats %}
-      <option value="{{ cat }}">{{ cat }}</option>
-    {% endfor %}
-  </select>
-
-  <!-- <button onclick="toggleDarkMode()">Toggle Dark Mode</button> -->
-  <!-- <button onclick="downloadJSON()">Download JSON</button> -->
-</div>
-
-<table id="deadline-table">
+<table id="deadline-table" border="1">
   <thead>
     <tr>
       <th>Conference</th>
@@ -41,18 +26,78 @@ permalink: /ai-deadlines/
 </table>
 
 <script>
-  // This embeds your YAML data as a JavaScript array before the external JS loads
-  const conferences = {{ site.data.deadlines | jsonify }};
-</script>
+  const conferences = [
+    {
+      name: "NeurIPS 2025",
+      deadline: "2025-05-15T23:59:00Z",
+      category: "ML",
+      icon: "🤖",
+      website: "https://neurips.cc"
+    },
+    {
+      name: "ICLR 2026",
+      deadline: "2025-09-28T23:59:00Z",
+      category: "ML",
+      icon: "🤖",
+      website: "https://iclr.cc"
+    },
+    {
+      name: "ICML 2026",
+      deadline: "2025-10-12T23:59:00Z",
+      category: "ML",
+      icon: "🤖",
+      website: "https://icml.cc"
+    },
+    {
+      name: "ACL 2025",
+      deadline: "2025-04-01T23:59:00Z",
+      category: "NLP",
+      icon: "🗣️",
+      website: "https://aclweb.org"
+    }
+  ];
 
-<script src="{{ '/assets/js/deadlines.js' | relative_url }}"></script>
+  function getCountdown(deadline) {
+    const now = new Date();
+    const end = new Date(deadline);
+    const diff = end - now;
+    if (diff <= 0) return "Expired";
 
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    return `${days} day(s) left`;
+  }
 
-<script>
+function renderTable(data) {
+  const $body = $('#deadline-body').empty(); // Clear existing rows
+  data.forEach(conf => {
+    const countdown = getCountdown(conf.deadline);
+    const row = `
+      <tr data-deadline="${conf.deadline}" data-category="${conf.category}">
+        <td>${conf.icon} <a href="${conf.website}" target="_blank">${conf.name}</a></td>
+        <td>${conf.deadline.split('T')[0]}</td>
+        <td class="countdown-cell">${countdown}</td>
+      </tr>
+    `;
+    $body.append(row);
+  });
+}
+
+function sortByDeadline(data) {
+  return data.slice().sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
+}
+
   $(document).ready(function () {
-    setupConferenceFilter(conferences);
+    renderTable(sortByDeadline(conferences));
+
+    $('#category-select').on('change', function () {
+      const selected = $(this).val();
+      const filtered = selected === 'all'
+        ? conferences
+        : conferences.filter(c => c.category === selected);
+
+      filtered.sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
+
+      renderTable(filtered);
+    });
   });
 </script>
-
-
-<link rel="stylesheet" href="{{ '/assets/css/deadlines.css' | relative_url }}">
