@@ -1,16 +1,18 @@
 /* ==========================================================================
    AI Deadlines Interactive Scripts
    ========================================================================== */
+  
 
-  function getCountdown(deadline) {
-    const now = new Date();
-    const end = new Date(deadline);
-    const diff = end - now;
-    if (diff <= 0) return "Expired";
 
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    return `${days} day(s) left`;
-  }
+function getCountdown(deadline) {
+  const now = new Date();
+  const end = new Date(deadline);
+  const diff = end - now;
+  if (diff <= 0) return "Expired";
+
+  const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+  return `${days} day(s) left`;
+}
 
 function renderTable(data) {
   const $body = $('#deadline-body').empty(); // Clear existing rows
@@ -31,7 +33,9 @@ function sortByDeadline(data) {
   return data.slice().sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
 }
 
-  $(document).ready(function () {
+cont = site.data.deadlines
+
+$(document).ready(function () {
     renderTable(sortByDeadline(conferences));
 
     $('#category-select').on('change', function () {
@@ -44,4 +48,4 @@ function sortByDeadline(data) {
 
       renderTable(filtered);
     });
-  });
+});

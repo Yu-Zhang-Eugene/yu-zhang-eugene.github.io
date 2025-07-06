@@ -40,5 +40,10 @@ permalink: /ai-deadlines/
   </tbody>
 </table>
 
+<script>
+  // This embeds your YAML data as a JavaScript array before the external JS loads
+  const conferences = {{ site.data.deadlines | jsonify }};
+</script>
+
 <script src="{{ '/assets/js/deadlines.js' | relative_url }}"></script>
 <link rel="stylesheet" href="{{ '/assets/css/deadlines.css' | relative_url }}">
