@@ -11,8 +11,24 @@ function getCountdown(deadline) {
   if (diff <= 0) return "Expired";
 
   const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-  return `${days} day(s) left`;
+  const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+  const minutes = Math.floor((diff / (1000 * 60)) % 60);
+  const seconds = Math.floor((diff / 1000) % 60);
+
+  return `${days}d ${hours}h ${minutes}m ${seconds}s left`;
 }
+
+function formatDateTimeUTC(isoString) {
+  const date = new Date(isoString);
+  const yyyy = date.getUTCFullYear();
+  const mm = String(date.getUTCMonth() + 1).padStart(2, '0');
+  const dd = String(date.getUTCDate()).padStart(2, '0');
+  const hh = String(date.getUTCHours()).padStart(2, '0');
+  const min = String(date.getUTCMinutes()).padStart(2, '0');
+  const sec = String(date.getUTCSeconds()).padStart(2, '0');
+  return `${yyyy}-${mm}-${dd} ${hh}:${min}:${sec} UTC`;
+}
+
 
 function renderTable(data) {
   const $body = $('#deadline-body').empty(); // Clear existing rows
@@ -21,7 +37,7 @@ function renderTable(data) {
     const row = `
       <tr data-deadline="${conf.deadline}" data-category="${conf.category}">
         <td>${conf.icon} <a href="${conf.website}" target="_blank">${conf.name}</a></td>
-        <td>${conf.deadline.split('T')[0]}</td>
+        <td>${formatDateTimeUTC(conf.deadline)}</td>
         <td class="countdown-cell">${countdown}</td>
       </tr>
     `;
@@ -30,7 +46,20 @@ function renderTable(data) {
 }
 
 function sortByDeadline(data) {
-  return data.slice().sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
+  const now = new Date();
+
+  return data.slice().sort((a, b) => {
+    const aDate = new Date(a.deadline);
+    const bDate = new Date(b.deadline);
+    const aExpired = aDate < now;
+    const bExpired = bDate < now;
+
+    if (aExpired && !bExpired) return 1;   // a is expired, b is not → a goes after b
+    if (!aExpired && bExpired) return -1;  // b is expired, a is not → b goes after a
+
+    // Both expired or both upcoming → sort by deadline ascending (oldest first)
+    return aDate - bDate;
+  });
 }
 
 
