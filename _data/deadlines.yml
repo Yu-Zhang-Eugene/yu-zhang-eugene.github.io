@@ -13,7 +13,7 @@
 
 - name: ICML 2026
   deadline: 2026-01-30T23:59:00Z
-  category: AI
+  category: Artificial Intelligence
   icon: "🤖"
   website: https://icml.cc
 
@@ -31,19 +31,19 @@
 
 - name: AAAI 2026
   deadline: 2026-01-20T23:59:00Z
-  category: AI
+  category: Artificial Intelligence
   icon: "🤖"
   website: https://aaai.org  # Confirmed main conference window :contentReference[oaicite:3]{index=3}
 
 - name: ICLR 2026
   deadline: 2025-09-24T23:59:00Z
-  category: AI
+  category: Artificial Intelligence
   icon: "🤖"
   website: https://iclr.cc  # Paper deadline :contentReference[oaicite:4]{index=4}
 
 - name: NeurIPS 2025
   deadline: 2025-05-15T23:59:00Z
-  category: AI
+  category: Artificial Intelligence
   icon: "🤖"
   website: https://neurips.cc  # Full paper due :contentReference[oaicite:5]{index=5}
 
