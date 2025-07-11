@@ -7,18 +7,21 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg" style="background-color: #0C2340;">
-            <a href="{{ base_path }}/"><span style="color: white;">{{ site.title }}</span></a>
+            <a href="{{ '/' | relative_url }}"><span style="color: white;">{{ site.title }}</span></a>
           </li>
 
           {% for link in site.data.navigation.main %}
             {% if link.children %}
               <li class="masthead__menu-item dropdown" style="background-color: #0C2340; position: relative;">
                 <a href="#" class="dropdown-toggle" style="color: white;">{{ link.title }}</a>
-                <ul class="dropdown-menu" style="position: absolute; top: 100%; left: 0; background-color: white; list-style: none; margin: 0; padding: 0; display: none; min-width: 180px; z-index: 999;">
+                <ul class="dropdown-menu"
+                    style="display: none; position: absolute; top: 100%; left: 0; background-color: white;
+                           list-style: none; margin: 0; padding: 0; min-width: 180px; z-index: 999;">
                   {% for child in link.children %}
                     {% assign is_external = child.url contains 'http' %}
                     <li>
-                      <a href="{% if is_external %}{{ child.url }}{% else %}{{ child.url | relative_url }}{% endif %}" style="display: block; padding: 5px 12px; color: black; text-decoration: none;">
+                      <a href="{% if is_external %}{{ child.url }}{% else %}{{ child.url | relative_url }}{% endif %}"
+                         style="display: block; padding: 5px 12px; color: black; text-decoration: none;">
                         {{ child.title }}
                       </a>
                     </li>
@@ -28,7 +31,9 @@
             {% else %}
               {% assign is_external = link.url contains 'http' %}
               <li class="masthead__menu-item" style="background-color: #0C2340;">
-                <a href="{% if is_external %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}"><span style="color: white;">{{ link.title }}</span></a>
+                <a href="{% if is_external %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}">
+                  <span style="color: white;">{{ link.title }}</span>
+                </a>
               </li>
             {% endif %}
           {% endfor %}
@@ -40,17 +45,35 @@
 </div>
 
 <script>
-  // Show dropdowns on hover
+  function toggleDropdown(el) {
+    // Close all other dropdowns
+    document.querySelectorAll(".dropdown-menu").forEach(menu => {
+      if (menu !== el.nextElementSibling) menu.style.display = "none";
+    });
+
+    const menu = el.nextElementSibling;
+    if (menu) {
+      menu.style.display = (menu.style.display === "block") ? "none" : "block";
+    }
+  }
+
+  // Add click listeners
   document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(".masthead__menu-item.dropdown").forEach(function (item) {
-      item.addEventListener("mouseenter", function () {
-        const menu = item.querySelector(".dropdown-menu");
-        if (menu) menu.style.display = "block";
+    document.querySelectorAll(".dropdown-toggle").forEach(toggle => {
+      toggle.addEventListener("click", function (event) {
+        event.preventDefault();
+        toggleDropdown(this);
       });
-      item.addEventListener("mouseleave", function () {
-        const menu = item.querySelector(".dropdown-menu");
-        if (menu) menu.style.display = "none";
-      });
+    });
+
+    // Close dropdown if you click outside
+    document.addEventListener("click", function (event) {
+      const isDropdown = event.target.closest('.dropdown');
+      if (!isDropdown) {
+        document.querySelectorAll(".dropdown-menu").forEach(menu => {
+          menu.style.display = "none";
+        });
+      }
     });
   });
 </script>
