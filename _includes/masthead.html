@@ -9,7 +9,6 @@
           <li class="masthead__menu-item masthead__menu-item--lg" style="background-color: #0C2340;">
             <a href="{{ '/' | relative_url }}"><span style="color: white;">{{ site.title }}</span></a>
           </li>
-
           {% for link in site.data.navigation.main %}
             {% if link.children %}
               <li class="masthead__menu-item dropdown" style="background-color: #0C2340; position: relative;">
@@ -44,36 +43,7 @@
   </div>
 </div>
 
-<script>
-  function toggleDropdown(el) {
-    // Close all other dropdowns
-    document.querySelectorAll(".dropdown-menu").forEach(menu => {
-      if (menu !== el.nextElementSibling) menu.style.display = "none";
-    });
+<!-- jQuery first -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
-    const menu = el.nextElementSibling;
-    if (menu) {
-      menu.style.display = (menu.style.display === "block") ? "none" : "block";
-    }
-  }
-
-  // Add click listeners
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(".dropdown-toggle").forEach(toggle => {
-      toggle.addEventListener("click", function (event) {
-        event.preventDefault();
-        toggleDropdown(this);
-      });
-    });
-
-    // Close dropdown if you click outside
-    document.addEventListener("click", function (event) {
-      const isDropdown = event.target.closest('.dropdown');
-      if (!isDropdown) {
-        document.querySelectorAll(".dropdown-menu").forEach(menu => {
-          menu.style.display = "none";
-        });
-      }
-    });
-  });
-</script>
+<script src="{{ '/assets/js/dropdown.js' | relative_url }}"></script>
