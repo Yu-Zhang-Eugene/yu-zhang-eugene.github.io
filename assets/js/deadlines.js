@@ -63,21 +63,6 @@ function sortByDeadline(data) {
 }
 
 
-// $(document).ready(function () {
-//     renderTable(sortByDeadline(conferences));
-
-//     $('#category-select').on('change', function () {
-//       const selected = $(this).val();
-//       const filtered = selected === 'all'
-//         ? conferences
-//         : conferences.filter(c => c.category === selected);
-
-//       filtered.sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
-
-//       renderTable(filtered);
-//     });
-// });
-
 function setupConferenceFilter(conferences) {
   renderTable(sortByDeadline(conferences));
 
