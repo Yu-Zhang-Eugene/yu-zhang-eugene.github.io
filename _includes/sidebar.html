@@ -2,56 +2,68 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
+
+    {% if page.author_profile or layout.author_profile %}
+      {% include author-profile.html %}
     {% endif %}
-  {% endif %}
 
-<!-- Container aligns with the sidebar content -->
-<div style="margin-top: 1em;">
+    {% if page.sidebar %}
+      {% for s in page.sidebar %}
+        {% if s.image %}
+          <img src={% if s.image contains "://" %}
+                    "{{ s.image }}"
+                  {% else %}
+                    "{{ s.image | prepend: '/images/' | prepend: base_path }}"
+                  {% endif %}
+               alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        {% endif %}
 
-  <!-- Text block aligned left like other sidebar elements -->
-  <p style="margin-left: 0; margin-right: 0; font-size: 0.95em; line-height: 1.5;">
-    Welcome to my website!
-  </p>
+        {% if s.title %}
+          <h3>{{ s.title }}</h3>
+        {% endif %}
 
-  <!-- Centered globe container 
-  <div style="width: 160px; height: 160px; margin: 1em auto 0 auto; text-align: left;">
-    <script type="text/javascript"
-            id="clstr_globe"
-            src="//clustrmaps.com/globe.js?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg">
-    </script>
+        {% if s.text %}
+          {{ s.text | markdownify }}
+        {% endif %}
+      {% endfor %}
+
+      {% if page.sidebar.nav %}
+        {% include nav_list nav=page.sidebar.nav %}
+      {% endif %}
+    {% endif %}
+
+    <!-- Container aligns with the sidebar content -->
+    <div style="margin-top: 1em;">
+
+      <!-- Text block aligned left like other sidebar elements -->
+      <p style="margin-left: 0; margin-right: 0; font-size: 0.95em; line-height: 1.5;">
+        Welcome to my website!
+      </p>
+
+      <!-- Optional visitor globe and map widgets -->
+      <!--
+      <div style="width: 160px; height: 160px; margin: 1em auto 0 auto; text-align: left;">
+        <script type="text/javascript"
+                id="clstr_globe"
+                src="//clustrmaps.com/globe.js?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg">
+        </script>
+      </div>
+
+      <div class="earth-widget">
+        <script type="text/javascript"
+                id="clustrmaps"
+                src="//clustrmaps.com/map_v2.js?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg&cl=ffffff&w=a">
+        </script>
+      </div>
+      -->
+
+      <div class="earth-widget">
+        <script type="text/javascript"
+                id="clstr_globe"
+                src="//clustrmaps.com/globe.js?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg">
+        </script>
+      </div>
+
+    </div>
   </div>
-  
-
-  <div class="earth-widget">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg&cl=ffffff&w=a"></script>
-  </div>
-  -->
-
-  <div class="earth-widget">
-    <script type="text/javascript"
-            id="clstr_globe"
-            src="//clustrmaps.com/globe.js?d=zKc_Tje-V2kL8v3E5VNlmje6haTJwfpaiZ3kF1SPXCg">
-    </script>
-  </div>
-
-</div>
-
-</div>
 {% endif %}
