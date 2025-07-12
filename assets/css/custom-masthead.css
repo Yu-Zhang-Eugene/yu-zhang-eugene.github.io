@@ -1,0 +1,47 @@
+/* === Masthead and Nav === */
+.masthead,
+.masthead__menu,
+.masthead__menu-item,
+#site-nav,
+.hidden-links {
+  background-color: #0C2340;
+}
+
+.masthead__menu-item a,
+.masthead__menu-item span,
+.dropdown-toggle {
+  color: white;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #0C2340;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 180px;
+  z-index: 999;
+  border-radius: 0 0 8px 8px; /* Rounded bottom edges */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25); /* Smooth shadow for floating look */
+  transition: all 0.2s ease-in-out; /* Smooth dropdown animation */
+}
+
+.dropdown-menu li a {
+  display: block;
+  padding: 10px 12px;
+  color: white;
+  text-decoration: none;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+.dropdown-menu li a:hover {
+  background-color: #0A1C33;
+}
