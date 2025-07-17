@@ -24,7 +24,7 @@ main:
   - title: Conference Deadlines
     url: /conference-deadlines/
 
-  # - title: "Course Materials"
-  #   children:
-  #     - title: "Operating System"
-  #       url: "/course-materials/operating-system/"
+  - title: "Course Materials"
+    children:
+      - title: "CSCI 261: Operating System"
+        url: "/course-materials/operating-system/"
