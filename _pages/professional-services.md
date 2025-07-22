@@ -3,6 +3,7 @@ layout: archive
 title: "Professional Services"
 permalink: /professional-services/
 author_profile: true
+comments: true
 ---
 
 Technical Program Committee Member:
@@ -28,6 +29,7 @@ Journal Reviewer (Selected):
 - Discover Applied Sciences
 - Journal of Supercomputing
 - Journal of Grid Computing
+- Discover Internet of Things
 - Mobile Networks and Applications
 
 
