@@ -11,7 +11,7 @@ Papers in Refereed Journals:
 ------
 - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
   Z.Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
-  IEEE Internet of Things Journal (IoT-J), 2025
+  IEEE Internet of Things Journal (IoT-J), 2025  
   <a href="https://ieeexplore.ieee.org/abstract/document/11083647" class="custom-link" target="_blank">[Paper]</a>  
 
 - <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
