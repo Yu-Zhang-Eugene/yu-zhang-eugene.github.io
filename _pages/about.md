@@ -29,6 +29,11 @@ Recent News
 <ul style="list-style: none;">
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
+    <span class="date-tag orange">[2025-08]</span> I joined the Mathematics and Computer Science Department at Fisk University as a tenure-track assistant professor!
+  </li>
+  
+  <li>
+    <img src="/images/celebration.png" alt="news" class="news-icon-img">
     <span class="date-tag orange">[2025-07]</span> I defended my Ph.D. dissertation!
   </li>
 
