@@ -8,7 +8,7 @@ author_profile: true
 
 Teaching Experiences:
 ------
-**Instructor**
+**Lecturer**
 - CSCI-261, Operating Systems, Fisk University, Fall 2025  
 - CSCI-310, Junior Seminar, Fisk University, Fall 2025
   
