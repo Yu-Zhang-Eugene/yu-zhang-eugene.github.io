@@ -30,6 +30,7 @@ Journal Reviewer (Selected):
 - Journal of Supercomputing
 - Journal of Grid Computing
 - Discover Internet of Things
+- Quantum Machine Intelligence
 - Mobile Networks and Applications
 
 
