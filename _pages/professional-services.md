@@ -10,7 +10,7 @@ Technical Program Committee Member:
 ---
 - Workshop on Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications (GenAI4SCH), IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
 
-Journal Reviewer (Selected):
+Journal Reviewer:
 ------
 - IEEE Wireless Communications Magazine
 - IEEE Internet of Things Journal (IoT-J)
@@ -32,9 +32,9 @@ Journal Reviewer (Selected):
 - Discover Internet of Things
 - Quantum Machine Intelligence
 - Mobile Networks and Applications
+- ...
 
-
-Conference Reviewer (Selected):
+Conference Reviewer:
 ------
 - IEEE Global Communications Conference (Globecom)
 - IEEE Conference on Communications and Network Security (CNS)
@@ -42,6 +42,7 @@ Conference Reviewer (Selected):
 - IEEE International Conference on Computer Communications (INFOCOM)
 - IEEE International Conference on Distributed Computing Systems (ICDCS)
 - IEEE International Conference on Pervasive Computing and Communications (PerCom)
+- ...
 
 
 Outreach
