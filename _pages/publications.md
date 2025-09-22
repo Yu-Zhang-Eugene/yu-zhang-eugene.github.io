@@ -9,6 +9,10 @@ See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class
 
 Papers in Refereed Journals:
 ------
+- <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
+__Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo  
+IEEE Transactions on Vehicular Technology (TVT), 2025 
+
 - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
   Z.Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
   IEEE Internet of Things Journal (IoT-J), 2025  
@@ -56,9 +60,6 @@ Preprints:
 ------
 - <span style="color: black;"> Resource-Constrained and Heterogeneity-Aware Split Federated Fine-Tuning of Large Language Models over Mobile Edge Networks </span>  
   X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
-  
-- <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
-  __Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo
 
 - <span style="color: black;"> FedSFT: Resource-Constrained Federated Black-Box Adaptation of Large Language Models </span>  
   Z. Zhang, __Y. Zhang__, Z. Gao, Y. Gong, and Y. Guo  
