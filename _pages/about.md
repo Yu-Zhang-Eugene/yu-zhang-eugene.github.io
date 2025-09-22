@@ -27,6 +27,11 @@ Recent News
 <summary><strong>🗓️ 2024-2025 Highlights</strong></summary>
   
 <ul style="list-style: none;">
+    <li>
+    <img src="/images/newspaper.png" alt="news" class="news-icon-img">
+    <span class="date-tag blue">[2025-09]</span> Our paper <em>"Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25" target="_blank" class="custom-link">IEEE Transactions on Vehicular Technology (TVT)</a>.
+  </li>
+  
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
     <span class="date-tag orange">[2025-08]</span> I joined the Mathematics and Computer Science Department at Fisk University as a tenure-track assistant professor!
