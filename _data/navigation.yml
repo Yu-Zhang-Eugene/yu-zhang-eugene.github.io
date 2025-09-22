@@ -6,12 +6,15 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
+  # - title: "Research"
+  #   url: /research/
+
   - title: "Work"
     url: /work/    
     
   - title: "Professional Services"
     url: /professional-services/
-        
+
   - title: "Award"
     url: /award/
     
@@ -28,3 +31,5 @@ main:
   #   children:
   #     - title: "CSCI 261: Operating System"
   #       url: "/course-materials/operating-system/"
+
+
