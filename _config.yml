@@ -29,9 +29,9 @@ author:
   avatar           : "yu.png"
   name             : "Yu(Eugene) Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "ECE Ph.D. Candidate"
-  location         : # "San Antonio"
-  employer         : # "University of Texas at San Antonio"
+  bio              : "Assistant Professor @ Fisk University. Research in AI, Quantum, and Networking."
+  location         : #"Nashville, TN"
+  employer         : #"Fisk University"
   uri              : # URL
   email            : "zhangyu@yahoo.com" 
 
