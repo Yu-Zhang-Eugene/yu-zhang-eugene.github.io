@@ -10,8 +10,9 @@ See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class
 Papers in Refereed Journals:
 ------
 - <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
-__Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo  
-IEEE Transactions on Vehicular Technology (TVT), 2025 
+  __Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo  
+  IEEE Transactions on Vehicular Technology (TVT), 2025  
+  <a href="https://ieeexplore.ieee.org/document/11181192" class="custom-link" target="_blank">[Paper]</a> 
 
 - <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
   Z.Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
@@ -47,7 +48,8 @@ Papers in Refereed Conferences:
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
 International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025  
-<a href="https://ieeexplore.ieee.org/abstract/document/11133770" class="custom-link" target="_blank">[Paper]</a> 
+<a href="https://ieeexplore.ieee.org/abstract/document/11133770" class="custom-link" target="_blank">[Paper]</a>
+<a href="https://arxiv.org/abs/2409.13517" class="custom-link" target="_blank">[Arxiv]</a> 
 
 - <span style="color: black;"> Semi-Supervised Federated Learning for Assessing Building Damage from Satellite Imagery </span>  
   __Y. Zhang__, Y. Gong, and Y. Guo   
