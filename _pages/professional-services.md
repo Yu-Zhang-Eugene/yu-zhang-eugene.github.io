@@ -8,7 +8,7 @@ comments: true
 
 Technical Program Committee Member:
 ---
-- IEEE Global Communications Conference, 2026
+- IEEE Global Communications Conference (GLOBECOM), 2026
 - Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM CHASE (Connected Health: Applications, Systems and Engineering Technologies), 2025 
 
 Journal Reviewer:
@@ -37,7 +37,7 @@ Journal Reviewer:
 
 Conference Reviewer:
 ------
-- IEEE Global Communications Conference (Globecom)
+- IEEE Global Communications Conference (GLOBECOM)
 - IEEE Conference on Communications and Network Security (CNS)
 - IEEE Wireless Communications and Networking Conference (WCNC)
 - IEEE International Conference on Computer Communications (INFOCOM)
