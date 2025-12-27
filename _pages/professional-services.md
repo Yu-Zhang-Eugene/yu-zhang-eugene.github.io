@@ -8,7 +8,8 @@ comments: true
 
 Technical Program Committee Member:
 ---
-- Workshop on Generative AI for Smart and Connected Health: Innovations, Challenges, and Applications (GenAI4SCH), IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
+- IEEE Global Communications Conference, 2026
+- Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM CHASE (Connected Health: Applications, Systems and Engineering Technologies), 2025 
 
 Journal Reviewer:
 ------
