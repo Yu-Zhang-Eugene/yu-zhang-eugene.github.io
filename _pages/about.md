@@ -55,7 +55,7 @@ Recent News
 </details>
 
 <details open>
-<summary><strong>🗓️ 2024-2025 Highlights</strong></summary>
+<summary><strong>🗓️ 2024 Highlights</strong></summary>
   
 <ul style="list-style: none;">
   <li>
