@@ -24,7 +24,7 @@ My current research focuses on Large Language Model (LLM), Quantum Computing and
 Recent News
 ======
 <details open>
-<summary><strong>🗓️ 2024-2025 Highlights</strong></summary>
+<summary><strong>🗓️ 2025-2026 Highlights</strong></summary>
   
 <ul style="list-style: none;">
     <li>
@@ -51,7 +51,13 @@ Recent News
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
     <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by <a href="http://www.icccn.org/" target="_blank" class="custom-link">International Conference on Computer Communications and Networks (ICCCN)</a>.
   </li>
+</ul>
+</details>
+
+<details open>
+<summary><strong>🗓️ 2024-2025 Highlights</strong></summary>
   
+<ul style="list-style: none;">
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
     <span class="date-tag blue">[2024-12]</span> Our paper <em>"Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755" target="_blank" class="custom-link">IEEE Transactions on Mobile Computing (TMC)</a>.
