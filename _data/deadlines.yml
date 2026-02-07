@@ -1,66 +1,17 @@
-- name: INFOCOM 2026
-  deadline: 2025-07-31T23:59:00Z
-  category: Computer Communications
-  icon: "📡"
-  website: https://ieee-infocom.org
-
-- name: SIGCOMM 2026
-  deadline: 2026-01-24T23:59:00Z
-  category: Computer Communications
-  icon: "📡"
-  website: https://conferences.sigcomm.org/sigcomm/2026
-
-
-- name: ICML 2026
-  deadline: 2026-01-30T23:59:00Z
-  category: Artificial Intelligence
-  icon: "🤖"
-  website: https://icml.cc
-
 - name: MobiCom 2026
-  deadline: 2025-03-11T23:59:00Z
+  deadline: 2026-03-06
   category: Computer Communications
   icon: "📡"
-  website: https://www.sigmobile.org/mobicom  # Winter submission round :contentReference[oaicite:1]{index=1}
+  website: https://www.sigmobile.org/mobicom/2026/
 
-- name: MobiHoc 2025
-  deadline: 2025-03-30T23:59:00Z
+- name: IEEE GLOBECOM 2026
+  deadline: 2026-04-01
   category: Computer Communications
   icon: "📡"
-  website: https://www.sigmobile.org/mobiho
+  website: https://www.ieee-globecom.org
 
-- name: AAAI 2026
-  deadline: 2026-01-20T23:59:00Z
+- name: NeurIPS 2026
+  deadline: 2026-05-22 (ET)
   category: Artificial Intelligence
   icon: "🤖"
-  website: https://aaai.org  # Confirmed main conference window :contentReference[oaicite:3]{index=3}
-
-- name: ICLR 2026
-  deadline: 2025-09-24T23:59:00Z
-  category: Artificial Intelligence
-  icon: "🤖"
-  website: https://iclr.cc  # Paper deadline :contentReference[oaicite:4]{index=4}
-
-- name: NeurIPS 2025
-  deadline: 2025-05-15T23:59:00Z
-  category: Artificial Intelligence
-  icon: "🤖"
-  website: https://neurips.cc  # Full paper due :contentReference[oaicite:5]{index=5}
-
-- name: ICDCS 2026
-  deadline: 2026-01-04T23:59:00Z
-  category: Computer Communications
-  icon: "📡"
-  website: https://waset.org 
-
-- name: GLOBECOM 2026
-  deadline: 2025-05-02T23:59:00Z   # Final extension deadline from GLOBECOM 2025
-  category: Computer Communications
-  icon: "📡"
-  website: https://www.ieee-globecom.org  # IEEE ComSoc flagship conference
-
-- name: ICC 2026
-  deadline: 2025-09-29T23:59:00Z   # Paper submission deadline for ICC '26
-  category: Computer Communications
-  icon: "📡"
-  website: https://icc2026.ieee-icc.org
+  website: https://nips.cc
