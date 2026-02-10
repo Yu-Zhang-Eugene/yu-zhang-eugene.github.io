@@ -26,12 +26,13 @@ Recent News
 <details open>
 <summary><strong>🗓️ 2025-2026 Highlights</strong></summary>
 
+<ul style="list-style: none;">
+  
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
     <span class="date-tag orange">[2026-01]</span> I am invited to serve as TPC member for Communication and Information System Security at IEEE GLOBECOM 2026.
   </li>
-  
-<ul style="list-style: none;">
+
     <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
     <span class="date-tag blue">[2025-09]</span> Our paper <em>"Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25" target="_blank" class="custom-link">IEEE Transactions on Vehicular Technology (TVT)</a>.
