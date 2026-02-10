@@ -25,6 +25,11 @@ Recent News
 ======
 <details open>
 <summary><strong>🗓️ 2025-2026 Highlights</strong></summary>
+
+  <li>
+    <img src="/images/celebration.png" alt="news" class="news-icon-img">
+    <span class="date-tag orange">[2026-01]</span> I am invited to serve as TPC member for Communication and Information System Security at IEEE GLOBECOM 2026.
+  </li>
   
 <ul style="list-style: none;">
     <li>
