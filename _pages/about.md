@@ -27,6 +27,11 @@ Recent News
 <summary><strong>🗓️ 2025-2026 Highlights</strong></summary>
 
 <ul style="list-style: none;">
+
+  <li>
+    <img src="/images/newspaper.png" alt="news" class="news-icon-img">
+    <span class="date-tag blue">[2026-04]</span> Our paper <em>"Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks"</em> was accepted by <a href="http://www.icccn.org/" target="_blank" class="custom-link">International Conference on Computer Communications and Networks (ICCCN)</a>.
+  </li>
   
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
