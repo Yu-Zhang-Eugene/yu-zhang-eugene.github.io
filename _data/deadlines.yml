@@ -5,13 +5,33 @@
   website: https://www.sigmobile.org/mobicom/2026/
 
 - name: IEEE GLOBECOM 2026
-  deadline: 2026-04-01
+  deadline: 2026-05-03
   category: Computer Communications
   icon: "📡"
   website: https://www.ieee-globecom.org
 
 - name: NeurIPS 2026
-  deadline: 2026-05-22 (ET)
+  deadline: 2026-05-04
   category: Artificial Intelligence
   icon: "🤖"
   website: https://nips.cc
+
+- name: EMNLP 2026
+  deadline: 2026-05-26
+  category: Artificial Intelligence
+  icon: "🤖"
+  website: https://2026.emnlp.org/
+
+
+  - name: IEEE INFOCOM 2026
+  deadline: 2026-07-17 (expected)
+  category: Computer Communications
+  icon: "🤖"
+  website: TBD
+
+  - name: ICASSP 2026
+  deadline: 2026-09-17 (expected)
+  category: Artificial Intelligence
+  icon: "🤖"
+  website: TBD
+
