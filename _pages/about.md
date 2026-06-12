@@ -30,7 +30,7 @@ Recent News
 
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
-    <span class="date-tag orange">[2026-06]</span> I am invited to serve as Co-Chair of the workshop "Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G" at IEEE Vehicular Technology Conference (VTC2026-Fall)</a>.
+    <span class="date-tag orange">[2026-06]</span> I am invited to serve as Co-Chair of the workshop "Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G" at IEEE Vehicular Technology Conference (VTC2026-Fall).
   </li>
 
   <li>
