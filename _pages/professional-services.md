@@ -6,6 +6,10 @@ author_profile: true
 comments: true
 ---
 
+Conference Organization Committee:
+---
+- Workshop Co-Chair for “Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G” at IEEE VTC2026-Fall.
+
 Technical Program Committee Member:
 ---
 - IEEE Global Communications Conference (GLOBECOM), 2026
