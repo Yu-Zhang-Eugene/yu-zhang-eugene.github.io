@@ -8,7 +8,7 @@ comments: true
 
 Conference Organization Committee:
 ---
-- Workshop Co-Chair for “Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G” at IEEE VTC2026-Fall.
+- Workshop Co-Chair on Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G, IEEE Vehicular Technology Conference (VTC 2026-Fall).
 
 Technical Program Committee Member:
 ---
