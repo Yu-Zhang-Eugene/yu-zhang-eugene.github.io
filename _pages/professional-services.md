@@ -13,7 +13,7 @@ Conference Organization Committee:
 Technical Program Committee Member:
 ---
 - IEEE Global Communications Conference (GLOBECOM), 2026
-- Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM CHASE (Connected Health: Applications, Systems and Engineering Technologies), 2025 
+- Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
 
 Journal Reviewer:
 ------
