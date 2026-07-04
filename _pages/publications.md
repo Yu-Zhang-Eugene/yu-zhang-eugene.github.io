@@ -61,7 +61,7 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 Preprints:
 ------
 - <span style="color: black;"> LMARL: LLM-Enhanced Multi-Agent Reinforcement Learning for Portfolio Management </span>  
-  C. Xia*, __Y. Zhang__, and X. Wang,
+  C. Xia*, __Y. Zhang__, and X. Wang
 
 - <span style="color: black;"> From Filter Bubbles to Diverse Exploration in Interactive Recommendation </span>  
   C. Xia, L. Jing, T. Zhang, __Y. Zhang__, H. Mo, X. Wang, and D. Dong
@@ -75,6 +75,6 @@ Preprints:
 <br>
 <br>
 <br>
-<div style="font-size: 0.3em;">
+<div style="font-size: 0.75em;">
 * Students Supervised
 </div>
