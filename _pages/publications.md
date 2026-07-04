@@ -72,9 +72,4 @@ Preprints:
 - <span style="color: black;"> FedSFT: Resource-Constrained Federated Black-Box Adaptation of Large Language Models </span>  
   Z. Zhang, __Y. Zhang__, Z. Gao, Y. Gong, and Y. Guo  
 
-<br>
-<br>
-<br>
-<div style="font-size: 0.75em;">
-* Students Supervised
-</div>
+
