@@ -60,8 +60,21 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 
 Preprints:
 ------
+- <span style="color: black;"> LMARL: LLM-Enhanced Multi-Agent Reinforcement Learning for Portfolio Management </span>  
+  C. Xia*, __Y. Zhang__, and X. Wang,
+
+- <span style="color: black;"> From Filter Bubbles to Diverse Exploration in Interactive Recommendation </span>  
+  C. Xia, L. Jing, T. Zhang, __Y. Zhang__, H. Mo, X. Wang, and D. Dong
+  
 - <span style="color: black;"> Resource-Constrained and Heterogeneity-Aware Split Federated Fine-Tuning of Large Language Models over Mobile Edge Networks </span>  
   X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
 
 - <span style="color: black;"> FedSFT: Resource-Constrained Federated Black-Box Adaptation of Large Language Models </span>  
   Z. Zhang, __Y. Zhang__, Z. Gao, Y. Gong, and Y. Guo  
+
+<br>
+<br>
+<br>
+<div style="font-size: 0.3em;">
+* Students Supervised
+</div>
