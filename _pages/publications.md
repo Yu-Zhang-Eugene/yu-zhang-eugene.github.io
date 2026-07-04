@@ -74,6 +74,9 @@ Preprints:
   
 <br>
 <br>
+<div style="font-size: 0.85em;">
 * Students Supervised
+</div>
+
 
 
