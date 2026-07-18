@@ -45,6 +45,10 @@ Papers in Refereed Journals:
 
 Papers in Refereed Conferences:
 ------
+- <span style="color: black;"> Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks </span>  
+  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong  
+International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27-30, 2026   
+
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
 International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025  
@@ -60,6 +64,9 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 
 Preprints:
 ------
+- <span style="color: black;"> Quantum-Inspired Resource Optimization for Edge-Cloud Collaborative LLM Inference with Speculative Decoding </span>  
+  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
+  
 - <span style="color: black;"> LLM-Guided Multi-Agent Reinforcement Learning for Portfolio Management </span>  
   C. Xia*, __Y. Zhang__, Tong Zhang, and X. Wang
   
