@@ -8,12 +8,13 @@ comments: true
 
 Conference Organization Committee:
 ---
-- Workshop Co-Chair, "Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G," IEEE Vehicular Technology Conference (VTC 2026-Fall).
+
 
 Technical Program Committee Member:
 ---
-- IEEE Global Communications Conference (GLOBECOM), 2026
-- Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
+- Workshop "Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G," collocated with IEEE Vehicular Technology Conference (VTC), 2026-Fall
+- Communication and Information System Security at IEEE Global Communications Conference (GLOBECOM), 2026
+- Workshop "Generative AI for Smart and Connected Health", collocated with IEEE/ACM Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
 
 Journal Reviewer:
 ------
