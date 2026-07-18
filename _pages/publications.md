@@ -60,11 +60,14 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2
 
 Preprints:
 ------
+- <span style="color: black;"> LLM-Guided Multi-Agent Reinforcement Learning for Portfolio Management </span>  
+  C. Xia*, __Y. Zhang__, Tong Zhang, and X. Wang
+  
 - <span style="color: black;"> LMARL: LLM-Enhanced Multi-Agent Reinforcement Learning for Portfolio Management </span>  
   C. Xia*, __Y. Zhang__, and X. Wang
 
-- <span style="color: black;"> From Filter Bubbles to Diverse Exploration in Interactive Recommendation </span>  
-  C. Xia, L. Jing, T. Zhang, __Y. Zhang__, H. Mo, X. Wang, and D. Dong
+- <span style="color: black;"> HDCRec: A Hierarchical Diversity-Constrained Framework for Mitigating Filter Bubbles in Interactive Recommendation </span>  
+  C. Xia*, L. Jing, T. Zhang, __Y. Zhang__, H. Mo, X. Wang, and D. Dong
   
 - <span style="color: black;"> Resource-Constrained and Heterogeneity-Aware Split Federated Fine-Tuning of Large Language Models over Mobile Edge Networks </span>  
   X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
