@@ -68,7 +68,7 @@ Preprints:
   X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
 
 - <span style="color: black;"> Stochastic Infrastructure Planning for Entanglement Distribution in Integrated Ground–Satellite Quantum Networks </span>  
-  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
+  X. Guo, __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
   
 - <span style="color: black;"> LLM-Guided Multi-Agent Reinforcement Learning for Portfolio Management </span>  
   C. Xia*, __Y. Zhang__, Tong Zhang, and X. Wang
