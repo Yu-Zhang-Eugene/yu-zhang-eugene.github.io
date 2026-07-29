@@ -30,15 +30,7 @@ Journal Reviewer:
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
-- Energy Systems
-- Cluster Computing
-- ACM Computing Surveys
-- Discover Applied Sciences
-- Journal of Supercomputing
-- Journal of Grid Computing
-- Discover Internet of Things
-- Quantum Machine Intelligence
-- Mobile Networks and Applications
+- Association for the Advancement of Artificial Intelligence (AAAI)
 - ...
 
 Conference Reviewer:
