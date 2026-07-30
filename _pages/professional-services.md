@@ -30,7 +30,6 @@ Journal Reviewer:
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
-- Association for the Advancement of Artificial Intelligence (AAAI)
 - ...
 
 Conference Reviewer:
@@ -41,6 +40,7 @@ Conference Reviewer:
 - IEEE International Conference on Computer Communications (INFOCOM)
 - IEEE International Conference on Distributed Computing Systems (ICDCS)
 - IEEE International Conference on Pervasive Computing and Communications (PerCom)
+- Association for the Advancement of Artificial Intelligence (AAAI)
 - ...
 
 
