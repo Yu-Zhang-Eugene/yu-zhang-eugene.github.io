@@ -26,7 +26,7 @@ Teaching Assistant
 
 Mentor
 ------
-- Shamima Akter, "CommunicationEfficient Federated Learning for LEO Satellites", M.S., University of Texas at San Antonio, 2024
+- Shamima Akter, "Communication Efficient Federated Learning for LEO Satellites", M.S., University of Texas at San Antonio, 2024
 
 Industry Experiences:
 ======
