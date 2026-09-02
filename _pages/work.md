@@ -11,10 +11,11 @@ Teaching Experiences:
 
 Lecturer
 ------
+- CSCI-390SE-01, Computer Security, Fisk University, Fall 2026
 - CSCI-312, Database Management, Fisk University, Spring 2026 
 - CSCI-100, Introduction to Computing, Fisk University, Spring 2026, Summer 2026
 - CSCI-210, Sophomore Seminar, Fisk University, Spring 2026 
-- CSCI-261, Operating Systems, Fisk University, Fall 2025  
+- CSCI-261, Operating Systems, Fisk University, Fall 2025, Fall 2026 
 - CSCI-310, Junior Seminar, Fisk University, Fall 2025
   
 Teaching Assistant
