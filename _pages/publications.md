@@ -47,7 +47,8 @@ Papers in Refereed Conferences:
 ------
 - <span style="color: black;"> Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks </span>  
   X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong  
-International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27-30, 2026   
+International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27-30, 2026  
+<a href="https://ieeexplore.ieee.org/abstract/document/11662805" class="custom-link" target="_blank">[Paper]</a>
 
 - <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
   __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
