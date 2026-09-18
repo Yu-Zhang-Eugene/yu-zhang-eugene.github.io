@@ -14,7 +14,7 @@ Intelligent Sensing, Communication and Computing (ICISCC), 2026
 Technical Program Committee Member:
 ---
 - Workshop "Reconfigurable Multi-Functional Intelligent and Holographic Surfaces for 6G," collocated with IEEE Vehicular Technology Conference (VTC), 2026-Fall
-- Communication and Information System Security at IEEE Global Communications Conference (GLOBECOM), 2026
+- IEEE Global Communications Conference (GLOBECOM), 2026
 - Workshop "Generative AI for Smart and Connected Health", collocated with IEEE/ACM Connected Health: Applications, Systems and Engineering Technologies (CHASE), 2025 
 
 Journal Reviewer:
