@@ -6,10 +6,10 @@ author_profile: true
 comments: true
 ---
 
-<!--
-Conference Organization Committee:
+Conference and Workshop Organization:
 ---
--->
+- Organizing Committee Co-Chair, Workshop "Generative AI and Distributed Intelligence: Computing, Networking, and Applications," collocated with International Conference on
+Intelligent Sensing, Communication and Computing (ICISCC), 2026
 
 Technical Program Committee Member:
 ---
