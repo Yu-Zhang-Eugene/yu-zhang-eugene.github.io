@@ -16,7 +16,7 @@ Research Interests
 _“Enjoy life, stay curious, and make research an adventure.”_<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _-- A nameless researcher_
 
-My current research focuses on Large Language Model (LLM), Quantum Computing and Communication, Federated Learning (FL), optimization, and their applications to IoT devices and space-air-ground integrated networks (SAGINs).
+My current research focuses on Large Language Models (LLMs), Quantum Computing and Communication, Federated Learning (FL), optimization, and their applications to IoT devices and space-air-ground integrated networks (SAGINs).
 
 <p>&nbsp;</p>
 
@@ -27,6 +27,11 @@ Recent News
 <summary><strong>🗓️ 2025-2026 Highlights</strong></summary>
 
 <ul style="list-style: none;">
+
+  <li>
+    <img src="/images/celebration.png" alt="news" class="news-icon-img">
+    <span class="date-tag orange">[2026-09]</span> I am invited to serve as an organizing committee co-chair for the workshop <em>"Generative AI and Distributed Intelligence: Computing, Networking, and Applications"</em> at International Conference on Intelligent Sensing, Communication and Computing (ICISCC).We are pleased to invite submissions to our workshop!
+  </li>
 
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
