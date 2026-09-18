@@ -30,7 +30,7 @@ Recent News
 
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
-    <span class="date-tag orange">[2026-09]</span> I am invited to serve as an organizing committee co-chair for the workshop <em>"Generative AI and Distributed Intelligence: Computing, Networking, and Applications"</em> at International Conference on Intelligent Sensing, Communication and Computing (ICISCC).We are pleased to invite submissions to our workshop!
+    <span class="date-tag orange">[2026-09]</span> I am invited to serve as an organizing committee co-chair for the workshop <em>"Generative AI and Distributed Intelligence: Computing, Networking, and Applications"</em> at International Conference on Intelligent Sensing, Communication and Computing (ICISCC). We are pleased to invite submissions to our workshop!
   </li>
 
   <li>
