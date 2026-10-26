@@ -40,7 +40,7 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2026-04]</span> Our paper <em>"Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN).
+    <span class="date-tag blue">[2026-04]</span> Our paper <em>"Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN'26).
   </li>
   
   <li>
@@ -70,7 +70,7 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN).
+    <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN'35).
   </li>
 </ul>
 </details>
@@ -96,7 +96,7 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-06]</span> Our paper <em>"Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery"</em> was accepted by IEEE International Conference on Communications (ICC).
+    <span class="date-tag blue">[2024-06]</span> Our paper <em>"Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery"</em> was accepted by IEEE International Conference on Communications (ICC'24).
   </li>
 
   <li>
