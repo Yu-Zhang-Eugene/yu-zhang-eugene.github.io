@@ -70,7 +70,7 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN'35).
+    <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN'25).
   </li>
 </ul>
 </details>
