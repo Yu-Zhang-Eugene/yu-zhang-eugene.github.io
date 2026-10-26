@@ -101,7 +101,7 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-03]</span> Our paper <em>"Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25" target="_blank" class="custom-link">IEEE Transactions on Vehicular Technology (TVT)</a>.
+    <span class="date-tag blue">[2024-03]</span> Our paper <em>"Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"</em> was accepted by IEEE Transactions on Vehicular Technology (**TVT**).
   </li>
 </ul>
 </details>
