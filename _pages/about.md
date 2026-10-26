@@ -40,7 +40,7 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2026-04]</span> Our paper <em>"Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks"</em> was accepted by <a href="http://www.icccn.org/" target="_blank" class="custom-link">International Conference on Computer Communications and Networks (ICCCN)</a>.
+    <span class="date-tag blue">[2026-04]</span> Our paper <em>"Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN).
   </li>
   
   <li>
@@ -48,9 +48,9 @@ Recent News
     <span class="date-tag orange">[2026-01]</span> I am invited to serve as a TPC member for Communication and Information System Security at IEEE GLOBECOM 2026.
   </li>
 
-    <li>
+  <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-09]</span> Our paper <em>"Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25" target="_blank" class="custom-link">IEEE Transactions on Vehicular Technology (TVT)</a>.
+    <span class="date-tag blue">[2025-09]</span> Our paper <em>"Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning"</em> was accepted by IEEE Transactions on Vehicular Technology (<strong>TVT</strong>).
   </li>
   
   <li>
@@ -65,12 +65,12 @@ Recent News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-07]</span> Our paper <em>"Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907" target="_blank" class="custom-link">IEEE Internet of Things Journal (IoT-J)</a>.
+    <span class="date-tag blue">[2025-07]</span> Our paper <em>"Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning"</em> was accepted by IEEE Internet of Things Journal (<strong>IoT-J</strong>).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by <a href="http://www.icccn.org/" target="_blank" class="custom-link">International Conference on Computer Communications and Networks (ICCCN)</a>.
+    <span class="date-tag blue">[2025-05]</span> Our paper <em>"Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks"</em> was accepted by International Conference on Computer Communications and Networks (ICCCN).
   </li>
 </ul>
 </details>
@@ -81,27 +81,27 @@ Recent News
 <ul style="list-style: none;">
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-12]</span> Our paper <em>"Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755" target="_blank" class="custom-link">IEEE Transactions on Mobile Computing (TMC)</a>.
+    <span class="date-tag blue">[2024-12]</span> Our paper <em>"Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"</em> was accepted by IEEE Transactions on Mobile Computing (<strong>TMC</strong>).
   </li>
   
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755" target="_blank" class="custom-link">IEEE Transactions on Mobile Computing (TMC)</a>.
+    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks"</em> was accepted by IEEE Transactions on Mobile Computing (<strong>TMC</strong>).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks"</em> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902" target="_blank" class="custom-link">IEEE Transactions on Network Science and Engineering (TNSE)</a>.
+    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks"</em> was accepted by IEEE Transactions on Network Science and Engineering (<strong>TNSE</strong>).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-06]</span> Our paper <em>"Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery"</em> was accepted by <a href="https://icc2024.ieee-icc.org/" target="_blank" class="custom-link">IEEE International Conference on Communications (ICC)</a>.
+    <span class="date-tag blue">[2024-06]</span> Our paper <em>"Semi-Supervised Federated Learning for Accessing Building Damage from Satellite Imagery"</em> was accepted by IEEE International Conference on Communications (ICC).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-03]</span> Our paper <em>"Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"</em> was accepted by IEEE Transactions on Vehicular Technology (**TVT**).
+    <span class="date-tag blue">[2024-03]</span> Our paper <em>"Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"</em> was accepted by IEEE Transactions on Vehicular Technology (<strong>TVT</strong>).
   </li>
 </ul>
 </details>
