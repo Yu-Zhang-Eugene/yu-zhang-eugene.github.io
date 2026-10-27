@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="custom-link" target="_blank">Google Scholar</a> for a comprehensive list of publications.
 
-<details open style="border-bottom: 1px solid #dddddd; padding-bottom: 15px; margin-bottom: 20px;">
+<details open style="background-color: #eef4fb; padding: 15px 20px; border-radius: 8px; margin-bottom: 15px;">
 <summary><h2 style="display: inline;">🔬 Quantum Computing and Communication</h2></summary>
 
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
