@@ -7,84 +7,131 @@ author_profile: true
 
 See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="custom-link" target="_blank">Google Scholar</a> for a comprehensive list of publications.
 
-Papers in Refereed Journals:
+Quantum Computing and Communication:
 ------
-- <span style="color: black;"> Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning </span>  
-  __Y. Zhang__, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo  
-  IEEE Transactions on Vehicular Technology (TVT), 2025  
-  <a href="https://ieeexplore.ieee.org/document/11181192" class="custom-link" target="_blank">[Paper]</a> 
+<ul style="list-style-type: disc; padding-left: 20px;">
 
-- <span style="color: black;"> Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning </span>  
-  Z.Gao, Z. Zhang, __Y. Zhang__, Y. Gong, and Y. Guo  
-  IEEE Internet of Things Journal (IoT-J), 2025  
-  <a href="https://ieeexplore.ieee.org/abstract/document/11083647" class="custom-link" target="_blank">[Paper]</a>  
+<li style="margin-bottom: 6px; color: black;">
+X. Guo, <strong>Y. Zhang</strong>, Z. Zhang, Y. Guo, and Y. Gong,
+"<a href="https://ieeexplore.ieee.org/abstract/document/11662805" class="custom-link" target="_blank">Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks</a>",
+International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27–30, 2026
+</li>
 
-- <span style="color: black;"> Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks </span>  
-  __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  IEEE Transactions on Mobile Computing (TMC), 2025  
-  <a href="https://ieeexplore.ieee.org/document/10804104" class="custom-link" target="_blank">[Paper]</a>
-  
-- <span style="color: black;"> Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks </span>  
-  __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  IEEE Transactions on Mobile Computing (TMC), 2024  
-  <a href="https://ieeexplore.ieee.org/document/10691643" class="custom-link" target="_blank">[Paper]</a>
-  <a href="https://arxiv.org/abs/2409.13508" class="custom-link" target="_blank">[Arxiv]</a>
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/abstract/document/11133770" class="custom-link" target="_blank">Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks</a>",
+International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4–7, 2025
+<a href="https://arxiv.org/abs/2409.13517" class="custom-link" target="_blank">[Arxiv]</a>
+</li>
 
-- <span style="color: black;"> Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks </span>  
-  __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  IEEE Transactions on Network Science and Engineering (TNSE), 2024  
-  <a href="https://ieeexplore.ieee.org/document/10614917" class="custom-link" target="_blank">[Paper]</a>
-  <a href="https://arxiv.org/abs/2312.14448" class="custom-link" target="_blank">[Arxiv]</a>
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/document/10804104" class="custom-link" target="_blank">Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks</a>",
+IEEE Transactions on Mobile Computing (TMC), vol. 24, no. 5, pp. 3878-3889, May 2025.
+</li>
 
-- <span style="color: black;"> Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing </span>  
-  __Y. Zhang__, Y. Gong, and Y. Guo  
-  IEEE Transactions on Vehicular Technology (TVT), 2024   
-  <a href="https://ieeexplore.ieee.org/document/10477460" class="custom-link" target="_blank">[Paper]</a>
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/document/10691643" class="custom-link" target="_blank">Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks</a>",
+IEEE Transactions on Mobile Computing (TMC), vol. 24, no. 2, pp. 830-844, Feb. 2025.
+<a href="https://arxiv.org/abs/2409.13508" class="custom-link" target="_blank">[Arxiv]</a>
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/document/10614917" class="custom-link" target="_blank">Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks</a>",
+IEEE Transactions on Network Science and Engineering (TNSE), vol. 11, no. 6, pp. 5163-5174, Nov.-Dec. 2024.
+<a href="https://arxiv.org/abs/2312.14448" class="custom-link" target="_blank">[Arxiv]</a>
+</li>
+
+</ul>
 
 
-
-Papers in Refereed Conferences:
+Artificial Intelligence:
 ------
-- <span style="color: black;"> Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks </span>  
-  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong  
-International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27-30, 2026  
-<a href="https://ieeexplore.ieee.org/abstract/document/11662805" class="custom-link" target="_blank">[Paper]</a>
+<ul style="list-style-type: disc; padding-left: 20px;">
 
-- <span style="color: black;"> Efficient Entanglement Routing for Satellite-Aerial-Terrestrial Quantum Networks </span>  
-  __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, Aug. 4-7, 2025  
-<a href="https://ieeexplore.ieee.org/abstract/document/11133770" class="custom-link" target="_blank">[Paper]</a>
-<a href="https://arxiv.org/abs/2409.13517" class="custom-link" target="_blank">[Arxiv]</a> 
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/document/11181192" class="custom-link" target="_blank">Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning</a>",
+IEEE Transactions on Vehicular Technology (TVT), vol. 75, no. 3, pp. 5061-5070, Mar. 2026.
+</li>
 
-- <span style="color: black;"> Semi-Supervised Federated Learning for Assessing Building Damage from Satellite Imagery </span>  
-  __Y. Zhang__, Y. Gong, and Y. Guo   
-IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9-13, 2024  
-<a href="https://ieeexplore.ieee.org/document/10622484" class="custom-link" target="_blank">[Paper]</a>
+<li style="margin-bottom: 6px; color: black;">
+Z. Gao, Z. Zhang, <strong>Y. Zhang</strong>, Y. Gong, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/abstract/document/11083647" class="custom-link" target="_blank">Heterogeneity-Aware Resource Allocation and Topology Design for Hierarchical Federated Edge Learning</a>",
+IEEE Internet of Things Journal (IoT-J), vol. 12, no. 19, pp. 39803-39816, Oct. 2025.
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Y. Gong, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/document/10622484" class="custom-link" target="_blank">Semi-Supervised Federated Learning for Assessing Building Damage from Satellite Imagery</a>",
+IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9–13, 2024
+</li>
+
+</ul>
+
+
+
+Optimization:
+------
+<ul style="list-style-type: disc; padding-left: 20px;">
+
+<li style="margin-bottom: 6px; color: black;">
+<strong>Y. Zhang</strong>, Y. Gong, and Y. Guo,
+"<a href="https://ieeexplore.ieee.org/document/10477460" class="custom-link" target="_blank">Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing</a>",
+IEEE Transactions on Vehicular Technology (TVT), vol. 73, no. 8, pp. 12026-12037, Aug. 2024.
+</li>
+
+</ul>
 
 
 
 Preprints:
 ------
-- <span style="color: black;"> Quantum-Inspired Resource Optimization for Edge-Cloud Collaborative LLM Inference with Speculative Decoding </span>  
-  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
+<ul style="list-style-type: disc; padding-left: 20px;">
 
-- <span style="color: black;"> Stochastic Infrastructure Planning for Entanglement Distribution in Integrated Ground–Satellite Quantum Networks </span>  
-  X. Guo, __Y. Zhang__, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo  
-  
-- <span style="color: black;"> LLM-Guided Multi-Agent Reinforcement Learning for Portfolio Management </span>  
-  C. Xia*, __Y. Zhang__, Tong Zhang, and X. Wang
-  
-- <span style="color: black;"> LMARL: LLM-Enhanced Multi-Agent Reinforcement Learning for Portfolio Management </span>  
-  C. Xia*, __Y. Zhang__, and X. Wang
+<li style="margin-bottom: 6px; color: black;">
+A. Neupane*, R. Hu, Q. Li, and <strong>Y. Zhang</strong>,
+"Dynamic Token Tree and Communication Resource Optimization for Edge–Cloud LLM Inference with Speculative Decoding"
+</li>
 
-- <span style="color: black;"> HDCRec: A Hierarchical Diversity-Constrained Framework for Mitigating Filter Bubbles in Interactive Recommendation </span>  
-  C. Xia*, L. Jing, T. Zhang, __Y. Zhang__, H. Mo, X. Wang, and D. Dong
-  
-- <span style="color: black;"> Resource-Constrained and Heterogeneity-Aware Split Federated Fine-Tuning of Large Language Models over Mobile Edge Networks </span>  
-  X. Guo, __Y. Zhang__, Z. Zhang, Y. Guo, and Y. Gong
+<li style="margin-bottom: 6px; color: black;">
+X. Guo, <strong>Y. Zhang</strong>, Z. Zhang, Y. Guo, and Y. Gong,
+"Quantum-Inspired Resource Optimization for Edge-Cloud Collaborative LLM Inference with Speculative Decoding"
+</li>
 
-- <span style="color: black;"> FedSFT: Resource-Constrained Federated Black-Box Adaptation of Large Language Models </span>  
-  Z. Zhang, __Y. Zhang__, Z. Gao, Y. Gong, and Y. Guo
+<li style="margin-bottom: 6px; color: black;">
+X. Guo, <strong>Y. Zhang</strong>, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo,
+"Stochastic Infrastructure Planning for Entanglement Distribution in Integrated Ground–Satellite Quantum Networks"
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+C. Xia*, <strong>Y. Zhang</strong>, Tong Zhang, and X. Wang,
+"LLM-Guided Multi-Agent Reinforcement Learning for Portfolio Management"
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+C. Xia*, <strong>Y. Zhang</strong>, and X. Wang,
+"LMARL: LLM-Enhanced Multi-Agent Reinforcement Learning for Portfolio Management"
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+C. Xia*, L. Jing, T. Zhang, <strong>Y. Zhang</strong>, H. Mo, X. Wang, and D. Dong,
+"HDCRec: A Hierarchical Diversity-Constrained Framework for Mitigating Filter Bubbles in Interactive Recommendation"
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+X. Guo, <strong>Y. Zhang</strong>, Z. Zhang, Y. Guo, and Y. Gong,
+"Resource-Constrained and Heterogeneity-Aware Split Federated Fine-Tuning of Large Language Models over Mobile Edge Networks"
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+Z. Zhang, <strong>Y. Zhang</strong>, Z. Gao, Y. Gong, and Y. Guo,
+"FedSFT: Resource-Constrained Federated Black-Box Adaptation of Large Language Models"
+</li>
+
+</ul>
   
 <br>
 <br>
