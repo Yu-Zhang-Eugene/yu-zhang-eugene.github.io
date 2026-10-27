@@ -28,6 +28,17 @@ Recent News
 
 <ul style="list-style: none;">
 
+<li>
+  <img src="/images/newspaper.png" alt="news" class="news-icon-img">
+  <span class="date-tag blue">[2026-10]</span>
+  Our paper, <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare,"</em>
+  was accepted at International Conference on Intelligent Sensing, Communication and Computing (ICISCC) 2026!
+  Special congratulations to my
+  <span style="color: #222222; font-weight: 600;">undergraduate students
+  Abhinav Neupane, Shamshad Ansari, and Ogechi Uche
+  on their first research paper!</span>
+</li>
+
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
     <span class="date-tag orange">[2026-09]</span> I am invited to serve as an organizing committee co-chair for the workshop <em>"Generative AI and Distributed Intelligence: Computing, Networking, and Applications"</em> at International Conference on Intelligent Sensing, Communication and Computing (ICISCC). We are pleased to invite submissions to our workshop!
