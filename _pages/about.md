@@ -86,7 +86,7 @@ Recent News
   
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks"</em> was accepted by IEEE Transactions on Mobile Computing (<strong>TMC</strong>).
+    <span class="date-tag blue">[2024-07]</span> Our paper <em>"Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks"</em> was accepted by IEEE Transactions on Mobile Computing <span style="color: #000000; font-weight: normal;">(TMC)</span>.
   </li>
 
   <li>
