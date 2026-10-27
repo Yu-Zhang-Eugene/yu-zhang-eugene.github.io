@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="custom-link" target="_blank">Google Scholar</a> for a comprehensive list of publications.
 
-<details open>
+<details open style="border-bottom: 1px solid #dddddd; padding-bottom: 15px; margin-bottom: 20px;">
 <summary><h2 style="display: inline;">🔬 Quantum Computing and Communication</h2></summary>
 
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
@@ -49,7 +49,7 @@ IEEE Transactions on Network Science and Engineering (TNSE), vol. 11, no. 6, pp.
 </details>
 
 
-<details open>
+<details open style="border-bottom: 1px solid #dddddd; padding-bottom: 15px; margin-bottom: 20px;">
 <summary><h2 style="display: inline;">🤖 Artificial Intelligence</h2></summary>
 
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
@@ -76,7 +76,7 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9–13,
 </details>
 
 
-<details open>
+<details open style="border-bottom: 1px solid #dddddd; padding-bottom: 15px; margin-bottom: 20px;">
 <summary><h2 style="display: inline;">⚙️ Optimization</h2></summary>
 
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
@@ -91,7 +91,7 @@ IEEE Transactions on Vehicular Technology (TVT), vol. 73, no. 8, pp. 12026-12037
 </details>
 
 
-<details open>
+<details open style="border-bottom: 1px solid #dddddd; padding-bottom: 15px; margin-bottom: 20px;">
 <summary><h2 style="display: inline;">📄 Preprints</h2></summary>
 
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
