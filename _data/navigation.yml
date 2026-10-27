@@ -24,8 +24,8 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: Conference Deadlines
-    url: /conference-deadlines/
+  - title: Conference Notification
+    url: /conference-notification/
 
   # - title: "Course Materials"
   #   children:
