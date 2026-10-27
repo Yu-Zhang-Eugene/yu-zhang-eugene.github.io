@@ -7,9 +7,10 @@ author_profile: true
 
 See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class="custom-link" target="_blank">Google Scholar</a> for a comprehensive list of publications.
 
-Quantum Computing and Communication:
-------
-<ul style="list-style-type: disc; padding-left: 20px;">
+<details open>
+<summary><h2 style="display: inline;">🔬 Quantum Computing and Communication</h2></summary>
+
+<ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
 X. Guo, <strong>Y. Zhang</strong>, Z. Zhang, Y. Guo, and Y. Gong,
@@ -45,11 +46,13 @@ IEEE Transactions on Network Science and Engineering (TNSE), vol. 11, no. 6, pp.
 </li>
 
 </ul>
+</details>
 
 
-Artificial Intelligence:
-------
-<ul style="list-style-type: disc; padding-left: 20px;">
+<details open>
+<summary><h2 style="display: inline;">🤖 Artificial Intelligence</h2></summary>
+
+<ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
 <strong>Y. Zhang</strong>, Z. Gao, Z. Zhang, T. Wang, Y. Gong, and Y. Guo,
@@ -70,12 +73,13 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9–13,
 </li>
 
 </ul>
+</details>
 
 
+<details open>
+<summary><h2 style="display: inline;">⚙️ Optimization</h2></summary>
 
-Optimization:
-------
-<ul style="list-style-type: disc; padding-left: 20px;">
+<ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
 <strong>Y. Zhang</strong>, Y. Gong, and Y. Guo,
@@ -84,12 +88,13 @@ IEEE Transactions on Vehicular Technology (TVT), vol. 73, no. 8, pp. 12026-12037
 </li>
 
 </ul>
+</details>
 
 
+<details open>
+<summary><h2 style="display: inline;">📄 Preprints</h2></summary>
 
-Preprints:
-------
-<ul style="list-style-type: disc; padding-left: 20px;">
+<ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
 A. Neupane*, R. Hu, Q. Li, and <strong>Y. Zhang</strong>,
@@ -132,6 +137,7 @@ Z. Zhang, <strong>Y. Zhang</strong>, Z. Gao, Y. Gong, and Y. Guo,
 </li>
 
 </ul>
+</details>
   
 <br>
 <br>
