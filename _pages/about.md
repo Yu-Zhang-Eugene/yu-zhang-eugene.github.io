@@ -21,10 +21,10 @@ My current research focuses on Large Language Models (LLMs), Quantum Computing a
 <p>&nbsp;</p>
 
 
-Recent News
+News
 ======
 <details open>
-<summary><strong>🗓️ 2025-2026 Highlights</strong></summary>
+<summary><strong>🗓️ 2026 Highlights</strong></summary>
 
 <ul style="list-style: none;">
 
@@ -54,7 +54,13 @@ Recent News
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
     <span class="date-tag orange">[2026-01]</span> I am invited to serve as a TPC member for Communication and Information System Security at IEEE GLOBECOM 2026.
   </li>
+  </ul>
+</details>
 
+<details open>
+<summary><strong>🗓️ 2025 Highlights</strong></summary>
+  
+<ul style="list-style: none;">
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
     <span class="date-tag blue">[2025-09]</span> Our paper <em>"Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning"</em> was accepted by IEEE Transactions on Vehicular Technology (<span style="color: #222222; font-weight: 600;">TVT</span>).
