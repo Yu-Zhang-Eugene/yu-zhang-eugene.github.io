@@ -13,6 +13,13 @@ See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
+A. Neupane*, S. Ansari, O. Uche, Q. Li, and <strong>Y. Zhang</strong>,
+"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare",
+International Conference on
+Intelligent Sensing, Communication and Computing (ICISCC), Changsha, China, November 20-22, 2026
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
 X. Guo, <strong>Y. Zhang</strong>, Z. Zhang, Y. Guo, and Y. Gong,
 "<a href="https://ieeexplore.ieee.org/abstract/document/11662805" class="custom-link" target="_blank">Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks</a>",
 International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27–30, 2026
