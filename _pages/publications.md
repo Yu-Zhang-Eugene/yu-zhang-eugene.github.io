@@ -55,7 +55,7 @@ IEEE Transactions on Network Science and Engineering (TNSE), vol. 11, no. 6, pp.
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
-A. Neupane*, S. Ansari, O. Uche, Q. Li, and <strong>Y. Zhang</strong>,
+A. Neupane*, S. Ansari*, O. Uche*, Q. Li, and <strong>Y. Zhang</strong>,
 "HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare",
 International Conference on
 Intelligent Sensing, Communication and Computing (ICISCC), Changsha, China, November 20-22, 2026
