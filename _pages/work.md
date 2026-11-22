@@ -16,7 +16,7 @@ Lecturer
 - CSCI-100, Introduction to Computing, Fisk University, Spring 2026, Summer 2026
 - CSCI-210, Sophomore Seminar, Fisk University, Spring 2026 
 - CSCI-261, Operating Systems, Fisk University, Fall 2025, Fall 2026 
-- CSCI-310, Junior Seminar, Fisk University, Fall 2025
+- CSCI-310, Junior Seminar, Fisk University, Fall 2025, Fall 2026
   
 Teaching Assistant
 ------
