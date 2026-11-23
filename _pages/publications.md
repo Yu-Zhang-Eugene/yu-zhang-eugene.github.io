@@ -91,7 +91,7 @@ IEEE International Conference on Communications (ICC), Denver, USA, Jun. 9–13,
 
 
 <details open style="background-color: #fff6e8; padding: 15px 20px; border-radius: 8px; margin-bottom: 15px;">
-<summary><h2 style="display: inline;">⚙️ Optimization</h2></summary>
+<summary><h2 style="display: inline;">⚙️ Others </h2></summary>
 
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
