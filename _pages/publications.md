@@ -13,6 +13,16 @@ See <a href="https://scholar.google.com/citations?hl=en&user=p6z9Id4AAAAJ" class
 <ul style="list-style-type: disc; padding-left: 20px; margin-top: 10px;">
 
 <li style="margin-bottom: 6px; color: black;">
+H. Zhong, N. Zhang, J. Chen, and <strong>Y. Zhang</strong>,
+"Bounding and Suppressing What Syndrome Telemetry Reveals About a Stored Quantum State", International Conference on Computing, Networking and Communications (ICNC), Hawaii, USA, Feb. 15-18, 2027
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
+H. Zhong, N. Zhang, J. Chen, and <strong>Y. Zhang</strong>,
+"Matching Shot Bounds for Testing Noisy Quantum Devices Against Classical Surrogates", International Conference on Computing, Networking and Communications (ICNC), Hawaii, USA, Feb. 15-18, 2027
+</li>
+
+<li style="margin-bottom: 6px; color: black;">
 X. Guo, <strong>Y. Zhang</strong>, Z. Zhang, Y. Guo, and Y. Gong,
 "<a href="https://ieeexplore.ieee.org/abstract/document/11662805" class="custom-link" target="_blank">Multipartite Entanglement Routing in the Integrated Ground-Satellite Quantum Networks</a>",
 International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, July 27–30, 2026
