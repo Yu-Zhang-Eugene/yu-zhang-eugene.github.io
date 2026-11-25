@@ -28,18 +28,16 @@ News
 
 <ul style="list-style: none;">
 
-<li>
-  <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-  <span class="date-tag blue">[2026-10]</span>
-  Our paper <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare"</em> was accepted at International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche!</em>
-</li>
+  <li>
+    <img src="/images/newspaper.png" alt="news" class="news-icon-img">
+    <span class="date-tag blue">[2025-11]</span> Our <span style="color: #222222; font-weight: 600;">two</span> papers, <em>"Bounding and Suppressing What Syndrome Telemetry Reveals About a Stored Quantum State"</em> and <em>"Matching Shot Bounds for Testing Noisy Quantum Devices Against Classical Surrogates"</em> were accepted by International Conference on Computing, Networking and Communications (ICNC'27).
+  </li>
 
-<li>
-  <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-  <span class="date-tag blue">[2026-10]</span>
-  Our paper <em>"Foundation Model-Guided Probability Fusion for Enhancing Semi-Supervised Learning in Skin Lesion Diagnosis" </em> was accepted at International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche
-  on their first research paper!</em>
-</li>
+  <li>
+    <img src="/images/newspaper.png" alt="news" class="news-icon-img">
+    <span class="date-tag blue">[2025-11]</span> Our <span style="color: #222222; font-weight: 600;">two</span> papers, <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare"</em> and <em>"Foundation Model-Guided Probability Fusion for Enhancing Semi-Supervised Learning in Skin Lesion Diagnosis"</em> were accepted by International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche on their first research paper!</em>
+  </li>
+
 
   <li>
     <img src="/images/celebration.png" alt="news" class="news-icon-img">
