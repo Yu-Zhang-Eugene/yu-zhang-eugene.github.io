@@ -35,7 +35,7 @@ News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-11]</span> Our <span style="color: #222222; font-weight: 600;">two</span> papers, <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare"</em> and <em>"Foundation Model-Guided Probability Fusion for Enhancing Semi-Supervised Learning in Skin Lesion Diagnosis"</em> were accepted by International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche on their first research paper!</em>
+    <span class="date-tag blue">[2025-10]</span> Our <span style="color: #222222; font-weight: 600;">two</span> papers, <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare"</em> and <em>"Foundation Model-Guided Probability Fusion for Enhancing Semi-Supervised Learning in Skin Lesion Diagnosis"</em> were accepted by International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche on their first research paper!</em>
   </li>
 
 
