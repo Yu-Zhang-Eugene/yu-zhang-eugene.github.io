@@ -30,12 +30,12 @@ News
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-11]</span> Our two papers, <em>"Bounding and Suppressing What Syndrome Telemetry Reveals About a Stored Quantum State"</em> and <em>"Matching Shot Bounds for Testing Noisy Quantum Devices Against Classical Surrogates"</em> were accepted by International Conference on Computing, Networking and Communications (ICNC'27).
+    <span class="date-tag blue">[2025-11]</span> Two of our papers, <em>"Bounding and Suppressing What Syndrome Telemetry Reveals About a Stored Quantum State"</em> and <em>"Matching Shot Bounds for Testing Noisy Quantum Devices Against Classical Surrogates"</em> were accepted by International Conference on Computing, Networking and Communications (ICNC'27).
   </li>
 
   <li>
     <img src="/images/newspaper.png" alt="news" class="news-icon-img">
-    <span class="date-tag blue">[2025-10]</span> Our two papers, <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare"</em> and <em>"Foundation Model-Guided Probability Fusion for Enhancing Semi-Supervised Learning in Skin Lesion Diagnosis"</em> were accepted by International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche on their first research paper!</em>
+    <span class="date-tag blue">[2025-10]</span> Two of our papers, <em>"HealthSpec: Efficient LLM Inference via Speculative Decoding for Healthcare"</em> and <em>"Foundation Model-Guided Probability Fusion for Enhancing Semi-Supervised Learning in Skin Lesion Diagnosis"</em> were accepted by International Conference on Intelligent Sensing, Communication and Computing (ICISCC'26)! <em>Special congratulations to my undergraduate students Abhinav Neupane, Shamshad Ansari, and Ogechi Uche on their first research paper!</em>
   </li>
 
 
